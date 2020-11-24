@@ -14,7 +14,7 @@
 Install the latest version using [Composer](https://getcomposer.org/):
 
 ```bash
-$ composer require raggitech/laravel-locations
+$ composer require pharaonic/laravel-locations
 ```
 
 
