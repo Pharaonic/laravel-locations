@@ -1,0 +1,33 @@
+{
+    "name": "raggitech/laravel-locations",
+    "description": "Laravel - Countries[States/Cities, Currency, Phone Code, Languages, Capital] & Continents  & Timezones.",
+    "keywords": [
+        "php",
+        "laravel",
+        "continents",
+        "countries",
+        "states",
+        "timezones"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Raggi",
+            "email": "support@pharaonic.io"
+        }
+    ],
+    "require": {
+        "php": ">=7.2",
+        "laravel/framework": ">=6.0"
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "autoload": {
+        "files": [
+            "src/Helpers.php"
+        ]
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
