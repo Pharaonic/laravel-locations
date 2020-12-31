@@ -890,7 +890,7 @@ return [
         "name" => "Dominican Republic",
         "native" => "República Dominicana",
         "currency" => "DOP",
-        "phone" => "1809 and 1-829",
+        "phone" => "1",
         "timezone" => "America/Santo_Domingo",
         "languages" => [
             "ES",
@@ -930,7 +930,7 @@ return [
     "EG" => [
         "iso" => "EGY",
         "name" => "Egypt",
-        "native" => "مصر‎",
+        "native" => "مصر",
         "currency" => "EGP",
         "phone" => "20",
         "timezone" => "Africa/Cairo",
@@ -2555,7 +2555,7 @@ return [
         "name" => "Puerto Rico",
         "native" => "Puerto Rico",
         "currency" => "USD",
-        "phone" => "1787 and 1-939",
+        "phone" => "1",
         "timezone" => "America/Puerto_Rico",
         "languages" => [
             "ES",
