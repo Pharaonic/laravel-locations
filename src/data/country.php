@@ -3569,6 +3569,4 @@ return [
         "continent" => "AF",
         "capital" => "Harare",
     ],
-
-
 ];
