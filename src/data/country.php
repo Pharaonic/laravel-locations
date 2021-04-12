@@ -1,6 +1,6 @@
 <?php
 return [
-    "AFG" => [
+    "AF" => [
         "iso" => "AFG",
         "name" => "Afghanistan",
         "native" => "افغانستان",
@@ -16,7 +16,7 @@ return [
         "capital" => "Kabul",
     ],
 
-    "ALA" => [
+    "AX" => [
         "iso" => "ALA",
         "name" => "Aland Islands",
         "native" => "Åland",
@@ -30,7 +30,7 @@ return [
         "capital" => "Mariehamn",
     ],
 
-    "ALB" => [
+    "AL" => [
         "iso" => "ALB",
         "name" => "Albania",
         "native" => "Shqipëria",
@@ -44,7 +44,7 @@ return [
         "capital" => "Tirana",
     ],
 
-    "DZA" => [
+    "DZ" => [
         "iso" => "DZA",
         "name" => "Algeria",
         "native" => "الجزائر",
@@ -58,7 +58,7 @@ return [
         "capital" => "Algiers",
     ],
 
-    "ASM" => [
+    "AS" => [
         "iso" => "ASM",
         "name" => "American Samoa",
         "native" => "American Samoa",
@@ -73,7 +73,7 @@ return [
         "capital" => "Pago Pago",
     ],
 
-    "AND" => [
+    "AD" => [
         "iso" => "AND",
         "name" => "Andorra",
         "native" => "Andorra",
@@ -87,7 +87,7 @@ return [
         "capital" => "Andorra la Vella",
     ],
 
-    "AGO" => [
+    "AO" => [
         "iso" => "AGO",
         "name" => "Angola",
         "native" => "Angola",
@@ -101,7 +101,7 @@ return [
         "capital" => "Luanda",
     ],
 
-    "AIA" => [
+    "AI" => [
         "iso" => "AIA",
         "name" => "Anguilla",
         "native" => "Anguilla",
@@ -115,7 +115,7 @@ return [
         "capital" => "The Valley",
     ],
 
-    "ATA" => [
+    "AQ" => [
         "iso" => "ATA",
         "name" => "Antarctica",
         "native" => "Antarctica",
@@ -127,7 +127,7 @@ return [
         "capital" => "",
     ],
 
-    "ATG" => [
+    "AG" => [
         "iso" => "ATG",
         "name" => "Antigua And Barbuda",
         "native" => "Antigua and Barbuda",
@@ -141,7 +141,7 @@ return [
         "capital" => "St. John's",
     ],
 
-    "ARG" => [
+    "AR" => [
         "iso" => "ARG",
         "name" => "Argentina",
         "native" => "Argentina",
@@ -156,7 +156,7 @@ return [
         "capital" => "Buenos Aires",
     ],
 
-    "ARM" => [
+    "AM" => [
         "iso" => "ARM",
         "name" => "Armenia",
         "native" => "Հայաստան",
@@ -171,7 +171,7 @@ return [
         "capital" => "Yerevan",
     ],
 
-    "ABW" => [
+    "AW" => [
         "iso" => "ABW",
         "name" => "Aruba",
         "native" => "Aruba",
@@ -186,7 +186,7 @@ return [
         "capital" => "Oranjestad",
     ],
 
-    "AUS" => [
+    "AU" => [
         "iso" => "AUS",
         "name" => "Australia",
         "native" => "Australia",
@@ -200,7 +200,7 @@ return [
         "capital" => "Canberra",
     ],
 
-    "AUT" => [
+    "AT" => [
         "iso" => "AUT",
         "name" => "Austria",
         "native" => "Österreich",
@@ -214,7 +214,7 @@ return [
         "capital" => "Vienna",
     ],
 
-    "AZE" => [
+    "AZ" => [
         "iso" => "AZE",
         "name" => "Azerbaijan",
         "native" => "Azərbaycan",
@@ -228,7 +228,7 @@ return [
         "capital" => "Baku",
     ],
 
-    "BHS" => [
+    "BS" => [
         "iso" => "BHS",
         "name" => "Bahamas The",
         "native" => "Bahamas",
@@ -242,7 +242,7 @@ return [
         "capital" => "Nassau",
     ],
 
-    "BHR" => [
+    "BH" => [
         "iso" => "BHR",
         "name" => "Bahrain",
         "native" => "‏البحرين",
@@ -256,7 +256,7 @@ return [
         "capital" => "Manama",
     ],
 
-    "BGD" => [
+    "BD" => [
         "iso" => "BGD",
         "name" => "Bangladesh",
         "native" => "Bangladesh",
@@ -270,7 +270,7 @@ return [
         "capital" => "Dhaka",
     ],
 
-    "BRB" => [
+    "BB" => [
         "iso" => "BRB",
         "name" => "Barbados",
         "native" => "Barbados",
@@ -284,7 +284,7 @@ return [
         "capital" => "Bridgetown",
     ],
 
-    "BLR" => [
+    "BY" => [
         "iso" => "BLR",
         "name" => "Belarus",
         "native" => "Белару́сь",
@@ -299,7 +299,7 @@ return [
         "capital" => "Minsk",
     ],
 
-    "BEL" => [
+    "BE" => [
         "iso" => "BEL",
         "name" => "Belgium",
         "native" => "België",
@@ -315,7 +315,7 @@ return [
         "capital" => "Brussels",
     ],
 
-    "BLZ" => [
+    "BZ" => [
         "iso" => "BLZ",
         "name" => "Belize",
         "native" => "Belize",
@@ -330,7 +330,7 @@ return [
         "capital" => "Belmopan",
     ],
 
-    "BEN" => [
+    "BJ" => [
         "iso" => "BEN",
         "name" => "Benin",
         "native" => "Bénin",
@@ -344,7 +344,7 @@ return [
         "capital" => "Porto-Novo",
     ],
 
-    "BMU" => [
+    "BM" => [
         "iso" => "BMU",
         "name" => "Bermuda",
         "native" => "Bermuda",
@@ -358,7 +358,7 @@ return [
         "capital" => "Hamilton",
     ],
 
-    "BTN" => [
+    "BT" => [
         "iso" => "BTN",
         "name" => "Bhutan",
         "native" => "ʼbrug-yul",
@@ -372,7 +372,7 @@ return [
         "capital" => "Thimphu",
     ],
 
-    "BOL" => [
+    "BO" => [
         "iso" => "BOL",
         "name" => "Bolivia",
         "native" => "Bolivia",
@@ -388,7 +388,7 @@ return [
         "capital" => "Sucre",
     ],
 
-    "BIH" => [
+    "BA" => [
         "iso" => "BIH",
         "name" => "Bosnia and Herzegovina",
         "native" => "Bosna i Hercegovina",
@@ -404,7 +404,7 @@ return [
         "capital" => "Sarajevo",
     ],
 
-    "BWA" => [
+    "BW" => [
         "iso" => "BWA",
         "name" => "Botswana",
         "native" => "Botswana",
@@ -419,7 +419,7 @@ return [
         "capital" => "Gaborone",
     ],
 
-    "BVT" => [
+    "BV" => [
         "iso" => "BVT",
         "name" => "Bouvet Island",
         "native" => "Bouvetøya",
@@ -435,7 +435,7 @@ return [
         "capital" => "",
     ],
 
-    "BRA" => [
+    "BR" => [
         "iso" => "BRA",
         "name" => "Brazil",
         "native" => "Brasil",
@@ -449,7 +449,7 @@ return [
         "capital" => "Brasilia",
     ],
 
-    "IOT" => [
+    "IO" => [
         "iso" => "IOT",
         "name" => "British Indian Ocean Territory",
         "native" => "British Indian Ocean Territory",
@@ -463,7 +463,7 @@ return [
         "capital" => "Diego Garcia",
     ],
 
-    "BRN" => [
+    "BN" => [
         "iso" => "BRN",
         "name" => "Brunei",
         "native" => "Negara Brunei Darussalam",
@@ -477,7 +477,7 @@ return [
         "capital" => "Bandar Seri Begawan",
     ],
 
-    "BGR" => [
+    "BG" => [
         "iso" => "BGR",
         "name" => "Bulgaria",
         "native" => "България",
@@ -491,7 +491,7 @@ return [
         "capital" => "Sofia",
     ],
 
-    "BFA" => [
+    "BF" => [
         "iso" => "BFA",
         "name" => "Burkina Faso",
         "native" => "Burkina Faso",
@@ -506,7 +506,7 @@ return [
         "capital" => "Ouagadougou",
     ],
 
-    "BDI" => [
+    "BI" => [
         "iso" => "BDI",
         "name" => "Burundi",
         "native" => "Burundi",
@@ -521,7 +521,7 @@ return [
         "capital" => "Bujumbura",
     ],
 
-    "KHM" => [
+    "KH" => [
         "iso" => "KHM",
         "name" => "Cambodia",
         "native" => "Kâmpŭchéa",
@@ -535,7 +535,7 @@ return [
         "capital" => "Phnom Penh",
     ],
 
-    "CMR" => [
+    "CM" => [
         "iso" => "CMR",
         "name" => "Cameroon",
         "native" => "Cameroon",
@@ -550,7 +550,7 @@ return [
         "capital" => "Yaounde",
     ],
 
-    "CAN" => [
+    "CA" => [
         "iso" => "CAN",
         "name" => "Canada",
         "native" => "Canada",
@@ -565,7 +565,7 @@ return [
         "capital" => "Ottawa",
     ],
 
-    "CPV" => [
+    "CV" => [
         "iso" => "CPV",
         "name" => "Cape Verde",
         "native" => "Cabo Verde",
@@ -579,7 +579,7 @@ return [
         "capital" => "Praia",
     ],
 
-    "CYM" => [
+    "KY" => [
         "iso" => "CYM",
         "name" => "Cayman Islands",
         "native" => "Cayman Islands",
@@ -593,7 +593,7 @@ return [
         "capital" => "George Town",
     ],
 
-    "CAF" => [
+    "CF" => [
         "iso" => "CAF",
         "name" => "Central African Republic",
         "native" => "Ködörösêse tî Bêafrîka",
@@ -608,7 +608,7 @@ return [
         "capital" => "Bangui",
     ],
 
-    "TCD" => [
+    "TD" => [
         "iso" => "TCD",
         "name" => "Chad",
         "native" => "Tchad",
@@ -623,7 +623,7 @@ return [
         "capital" => "N'Djamena",
     ],
 
-    "CHL" => [
+    "CL" => [
         "iso" => "CHL",
         "name" => "Chile",
         "native" => "Chile",
@@ -637,7 +637,7 @@ return [
         "capital" => "Santiago",
     ],
 
-    "CHN" => [
+    "CN" => [
         "iso" => "CHN",
         "name" => "China",
         "native" => "中国",
@@ -651,7 +651,7 @@ return [
         "capital" => "Beijing",
     ],
 
-    "CXR" => [
+    "CX" => [
         "iso" => "CXR",
         "name" => "Christmas Island",
         "native" => "Christmas Island",
@@ -665,7 +665,7 @@ return [
         "capital" => "Flying Fish Cove",
     ],
 
-    "CCK" => [
+    "CC" => [
         "iso" => "CCK",
         "name" => "Cocos (Keeling) Islands",
         "native" => "Cocos (Keeling) Islands",
@@ -679,7 +679,7 @@ return [
         "capital" => "West Island",
     ],
 
-    "COL" => [
+    "CO" => [
         "iso" => "COL",
         "name" => "Colombia",
         "native" => "Colombia",
@@ -693,7 +693,7 @@ return [
         "capital" => "Bogota",
     ],
 
-    "COM" => [
+    "KM" => [
         "iso" => "COM",
         "name" => "Comoros",
         "native" => "Komori",
@@ -708,7 +708,7 @@ return [
         "capital" => "Moroni",
     ],
 
-    "COG" => [
+    "CG" => [
         "iso" => "COG",
         "name" => "Congo",
         "native" => "République du Congo",
@@ -723,7 +723,7 @@ return [
         "capital" => "Brazzaville",
     ],
 
-    "COD" => [
+    "CD" => [
         "iso" => "COD",
         "name" => "Congo The Democratic Republic Of The",
         "native" => "République démocratique du Congo",
@@ -741,7 +741,7 @@ return [
         "capital" => "Kinshasa",
     ],
 
-    "COK" => [
+    "CK" => [
         "iso" => "COK",
         "name" => "Cook Islands",
         "native" => "Cook Islands",
@@ -755,7 +755,7 @@ return [
         "capital" => "Avarua",
     ],
 
-    "CRI" => [
+    "CR" => [
         "iso" => "CRI",
         "name" => "Costa Rica",
         "native" => "Costa Rica",
@@ -769,7 +769,7 @@ return [
         "capital" => "San Jose",
     ],
 
-    "CIV" => [
+    "CI" => [
         "iso" => "CIV",
         "name" => "Cote D'Ivoire (Ivory Coast)",
         "native" => "Côte d'Ivoire",
@@ -783,7 +783,7 @@ return [
         "capital" => "Yamoussoukro",
     ],
 
-    "HRV" => [
+    "HR" => [
         "iso" => "HRV",
         "name" => "Croatia (Hrvatska)",
         "native" => "Hrvatska",
@@ -797,7 +797,7 @@ return [
         "capital" => "Zagreb",
     ],
 
-    "CUB" => [
+    "CU" => [
         "iso" => "CUB",
         "name" => "Cuba",
         "native" => "Cuba",
@@ -811,7 +811,7 @@ return [
         "capital" => "Havana",
     ],
 
-    "CYP" => [
+    "CY" => [
         "iso" => "CYP",
         "name" => "Cyprus",
         "native" => "Κύπρος",
@@ -827,7 +827,7 @@ return [
         "capital" => "Nicosia",
     ],
 
-    "CZE" => [
+    "CZ" => [
         "iso" => "CZE",
         "name" => "Czech Republic",
         "native" => "Česká republika",
@@ -842,7 +842,7 @@ return [
         "capital" => "Prague",
     ],
 
-    "DNK" => [
+    "DK" => [
         "iso" => "DNK",
         "name" => "Denmark",
         "native" => "Danmark",
@@ -856,7 +856,7 @@ return [
         "capital" => "Copenhagen",
     ],
 
-    "DJI" => [
+    "DJ" => [
         "iso" => "DJI",
         "name" => "Djibouti",
         "native" => "Djibouti",
@@ -871,7 +871,7 @@ return [
         "capital" => "Djibouti",
     ],
 
-    "DMA" => [
+    "DM" => [
         "iso" => "DMA",
         "name" => "Dominica",
         "native" => "Dominica",
@@ -885,7 +885,7 @@ return [
         "capital" => "Roseau",
     ],
 
-    "DOM" => [
+    "DO" => [
         "iso" => "DOM",
         "name" => "Dominican Republic",
         "native" => "República Dominicana",
@@ -899,7 +899,7 @@ return [
         "capital" => "Santo Domingo",
     ],
 
-    "TLS" => [
+    "TL" => [
         "iso" => "TLS",
         "name" => "East Timor",
         "native" => "Timor-Leste",
@@ -913,7 +913,7 @@ return [
         "capital" => "Dili",
     ],
 
-    "ECU" => [
+    "EC" => [
         "iso" => "ECU",
         "name" => "Ecuador",
         "native" => "Ecuador",
@@ -927,7 +927,7 @@ return [
         "capital" => "Quito",
     ],
 
-    "EGY" => [
+    "EG" => [
         "iso" => "EGY",
         "name" => "Egypt",
         "native" => "مصر",
@@ -941,7 +941,7 @@ return [
         "capital" => "Cairo",
     ],
 
-    "SLV" => [
+    "SV" => [
         "iso" => "SLV",
         "name" => "El Salvador",
         "native" => "El Salvador",
@@ -955,7 +955,7 @@ return [
         "capital" => "San Salvador",
     ],
 
-    "GNQ" => [
+    "GQ" => [
         "iso" => "GNQ",
         "name" => "Equatorial Guinea",
         "native" => "Guinea Ecuatorial",
@@ -970,7 +970,7 @@ return [
         "capital" => "Malabo",
     ],
 
-    "ERI" => [
+    "ER" => [
         "iso" => "ERI",
         "name" => "Eritrea",
         "native" => "ኤርትራ",
@@ -986,7 +986,7 @@ return [
         "capital" => "Asmara",
     ],
 
-    "EST" => [
+    "EE" => [
         "iso" => "EST",
         "name" => "Estonia",
         "native" => "Eesti",
@@ -1000,7 +1000,7 @@ return [
         "capital" => "Tallinn",
     ],
 
-    "ETH" => [
+    "ET" => [
         "iso" => "ETH",
         "name" => "Ethiopia",
         "native" => "ኢትዮጵያ",
@@ -1014,7 +1014,7 @@ return [
         "capital" => "Addis Ababa",
     ],
 
-    "FLK" => [
+    "FK" => [
         "iso" => "FLK",
         "name" => "Falkland Islands",
         "native" => "Falkland Islands",
@@ -1028,7 +1028,7 @@ return [
         "capital" => "Stanley",
     ],
 
-    "FRO" => [
+    "FO" => [
         "iso" => "FRO",
         "name" => "Faroe Islands",
         "native" => "Føroyar",
@@ -1042,7 +1042,7 @@ return [
         "capital" => "Torshavn",
     ],
 
-    "FJI" => [
+    "FJ" => [
         "iso" => "FJI",
         "name" => "Fiji Islands",
         "native" => "Fiji",
@@ -1059,7 +1059,7 @@ return [
         "capital" => "Suva",
     ],
 
-    "FIN" => [
+    "FI" => [
         "iso" => "FIN",
         "name" => "Finland",
         "native" => "Suomi",
@@ -1074,7 +1074,7 @@ return [
         "capital" => "Helsinki",
     ],
 
-    "FRA" => [
+    "FR" => [
         "iso" => "FRA",
         "name" => "France",
         "native" => "France",
@@ -1088,7 +1088,7 @@ return [
         "capital" => "Paris",
     ],
 
-    "GUF" => [
+    "GF" => [
         "iso" => "GUF",
         "name" => "French Guiana",
         "native" => "Guyane française",
@@ -1102,7 +1102,7 @@ return [
         "capital" => "Cayenne",
     ],
 
-    "PYF" => [
+    "PF" => [
         "iso" => "PYF",
         "name" => "French Polynesia",
         "native" => "Polynésie française",
@@ -1116,7 +1116,7 @@ return [
         "capital" => "Papeete",
     ],
 
-    "ATF" => [
+    "TF" => [
         "iso" => "ATF",
         "name" => "French Southern Territories",
         "native" => "Territoire des Terres australes et antarctiques fr",
@@ -1130,7 +1130,7 @@ return [
         "capital" => "Port-aux-Francais",
     ],
 
-    "GAB" => [
+    "GA" => [
         "iso" => "GAB",
         "name" => "Gabon",
         "native" => "Gabon",
@@ -1144,7 +1144,7 @@ return [
         "capital" => "Libreville",
     ],
 
-    "GMB" => [
+    "GM" => [
         "iso" => "GMB",
         "name" => "Gambia The",
         "native" => "Gambia",
@@ -1158,7 +1158,7 @@ return [
         "capital" => "Banjul",
     ],
 
-    "GEO" => [
+    "GE" => [
         "iso" => "GEO",
         "name" => "Georgia",
         "native" => "საქართველო",
@@ -1172,7 +1172,7 @@ return [
         "capital" => "Tbilisi",
     ],
 
-    "DEU" => [
+    "DE" => [
         "iso" => "DEU",
         "name" => "Germany",
         "native" => "Deutschland",
@@ -1186,7 +1186,7 @@ return [
         "capital" => "Berlin",
     ],
 
-    "GHA" => [
+    "GH" => [
         "iso" => "GHA",
         "name" => "Ghana",
         "native" => "Ghana",
@@ -1200,7 +1200,7 @@ return [
         "capital" => "Accra",
     ],
 
-    "GIB" => [
+    "GI" => [
         "iso" => "GIB",
         "name" => "Gibraltar",
         "native" => "Gibraltar",
@@ -1214,7 +1214,7 @@ return [
         "capital" => "Gibraltar",
     ],
 
-    "GRC" => [
+    "GR" => [
         "iso" => "GRC",
         "name" => "Greece",
         "native" => "Ελλάδα",
@@ -1228,7 +1228,7 @@ return [
         "capital" => "Athens",
     ],
 
-    "GRL" => [
+    "GL" => [
         "iso" => "GRL",
         "name" => "Greenland",
         "native" => "Kalaallit Nunaat",
@@ -1242,7 +1242,7 @@ return [
         "capital" => "Nuuk",
     ],
 
-    "GRD" => [
+    "GD" => [
         "iso" => "GRD",
         "name" => "Grenada",
         "native" => "Grenada",
@@ -1256,7 +1256,7 @@ return [
         "capital" => "St. George's",
     ],
 
-    "GLP" => [
+    "GP" => [
         "iso" => "GLP",
         "name" => "Guadeloupe",
         "native" => "Guadeloupe",
@@ -1270,7 +1270,7 @@ return [
         "capital" => "Basse-Terre",
     ],
 
-    "GUM" => [
+    "GU" => [
         "iso" => "GUM",
         "name" => "Guam",
         "native" => "Guam",
@@ -1286,7 +1286,7 @@ return [
         "capital" => "Hagatna",
     ],
 
-    "GTM" => [
+    "GT" => [
         "iso" => "GTM",
         "name" => "Guatemala",
         "native" => "Guatemala",
@@ -1300,7 +1300,7 @@ return [
         "capital" => "Guatemala City",
     ],
 
-    "GGY" => [
+    "GG" => [
         "iso" => "GGY",
         "name" => "Guernsey and Alderney",
         "native" => "Guernsey",
@@ -1315,7 +1315,7 @@ return [
         "capital" => "St Peter Port",
     ],
 
-    "GIN" => [
+    "GN" => [
         "iso" => "GIN",
         "name" => "Guinea",
         "native" => "Guinée",
@@ -1330,7 +1330,7 @@ return [
         "capital" => "Conakry",
     ],
 
-    "GNB" => [
+    "GW" => [
         "iso" => "GNB",
         "name" => "Guinea-Bissau",
         "native" => "Guiné-Bissau",
@@ -1344,7 +1344,7 @@ return [
         "capital" => "Bissau",
     ],
 
-    "GUY" => [
+    "GY" => [
         "iso" => "GUY",
         "name" => "Guyana",
         "native" => "Guyana",
@@ -1358,7 +1358,7 @@ return [
         "capital" => "Georgetown",
     ],
 
-    "HTI" => [
+    "HT" => [
         "iso" => "HTI",
         "name" => "Haiti",
         "native" => "Haïti",
@@ -1373,7 +1373,7 @@ return [
         "capital" => "Port-au-Prince",
     ],
 
-    "HMD" => [
+    "HM" => [
         "iso" => "HMD",
         "name" => "Heard and McDonald Islands",
         "native" => "Heard Island and McDonald Islands",
@@ -1387,7 +1387,7 @@ return [
         "capital" => "",
     ],
 
-    "HND" => [
+    "HN" => [
         "iso" => "HND",
         "name" => "Honduras",
         "native" => "Honduras",
@@ -1401,7 +1401,7 @@ return [
         "capital" => "Tegucigalpa",
     ],
 
-    "HKG" => [
+    "HK" => [
         "iso" => "HKG",
         "name" => "Hong Kong S.A.R.",
         "native" => "香港",
@@ -1416,7 +1416,7 @@ return [
         "capital" => "Hong Kong",
     ],
 
-    "HUN" => [
+    "HU" => [
         "iso" => "HUN",
         "name" => "Hungary",
         "native" => "Magyarország",
@@ -1430,7 +1430,7 @@ return [
         "capital" => "Budapest",
     ],
 
-    "ISL" => [
+    "IS" => [
         "iso" => "ISL",
         "name" => "Iceland",
         "native" => "Ísland",
@@ -1444,7 +1444,7 @@ return [
         "capital" => "Reykjavik",
     ],
 
-    "IND" => [
+    "IN" => [
         "iso" => "IND",
         "name" => "India",
         "native" => "भारत",
@@ -1459,7 +1459,7 @@ return [
         "capital" => "New Delhi",
     ],
 
-    "IDN" => [
+    "ID" => [
         "iso" => "IDN",
         "name" => "Indonesia",
         "native" => "Indonesia",
@@ -1473,7 +1473,7 @@ return [
         "capital" => "Jakarta",
     ],
 
-    "IRN" => [
+    "IR" => [
         "iso" => "IRN",
         "name" => "Iran",
         "native" => "ایران",
@@ -1487,7 +1487,7 @@ return [
         "capital" => "Tehran",
     ],
 
-    "IRQ" => [
+    "IQ" => [
         "iso" => "IRQ",
         "name" => "Iraq",
         "native" => "العراق",
@@ -1502,7 +1502,7 @@ return [
         "capital" => "Baghdad",
     ],
 
-    "IRL" => [
+    "IE" => [
         "iso" => "IRL",
         "name" => "Ireland",
         "native" => "Éire",
@@ -1517,7 +1517,7 @@ return [
         "capital" => "Dublin",
     ],
 
-    "ISR" => [
+    "IL" => [
         "iso" => "ISR",
         "name" => "Israel",
         "native" => "יִשְׂרָאֵל",
@@ -1532,7 +1532,7 @@ return [
         "capital" => "Jerusalem",
     ],
 
-    "ITA" => [
+    "IT" => [
         "iso" => "ITA",
         "name" => "Italy",
         "native" => "Italia",
@@ -1546,7 +1546,7 @@ return [
         "capital" => "Rome",
     ],
 
-    "JAM" => [
+    "JM" => [
         "iso" => "JAM",
         "name" => "Jamaica",
         "native" => "Jamaica",
@@ -1560,7 +1560,7 @@ return [
         "capital" => "Kingston",
     ],
 
-    "JPN" => [
+    "JP" => [
         "iso" => "JPN",
         "name" => "Japan",
         "native" => "日本",
@@ -1574,7 +1574,7 @@ return [
         "capital" => "Tokyo",
     ],
 
-    "JEY" => [
+    "JE" => [
         "iso" => "JEY",
         "name" => "Jersey",
         "native" => "Jersey",
@@ -1589,7 +1589,7 @@ return [
         "capital" => "Saint Helier",
     ],
 
-    "JOR" => [
+    "JO" => [
         "iso" => "JOR",
         "name" => "Jordan",
         "native" => "الأردن",
@@ -1603,7 +1603,7 @@ return [
         "capital" => "Amman",
     ],
 
-    "KAZ" => [
+    "KZ" => [
         "iso" => "KAZ",
         "name" => "Kazakhstan",
         "native" => "Қазақстан",
@@ -1618,7 +1618,7 @@ return [
         "capital" => "Astana",
     ],
 
-    "KEN" => [
+    "KE" => [
         "iso" => "KEN",
         "name" => "Kenya",
         "native" => "Kenya",
@@ -1633,7 +1633,7 @@ return [
         "capital" => "Nairobi",
     ],
 
-    "KIR" => [
+    "KI" => [
         "iso" => "KIR",
         "name" => "Kiribati",
         "native" => "Kiribati",
@@ -1647,7 +1647,7 @@ return [
         "capital" => "Tarawa",
     ],
 
-    "PRK" => [
+    "KP" => [
         "iso" => "PRK",
         "name" => "Korea North
     ",
@@ -1662,7 +1662,7 @@ return [
         "capital" => "Pyongyang",
     ],
 
-    "KOR" => [
+    "KR" => [
         "iso" => "KOR",
         "name" => "Korea South",
         "native" => "대한민국",
@@ -1676,7 +1676,7 @@ return [
         "capital" => "Seoul",
     ],
 
-    "KWT" => [
+    "KW" => [
         "iso" => "KWT",
         "name" => "Kuwait",
         "native" => "الكويت",
@@ -1690,7 +1690,7 @@ return [
         "capital" => "Kuwait City",
     ],
 
-    "KGZ" => [
+    "KG" => [
         "iso" => "KGZ",
         "name" => "Kyrgyzstan",
         "native" => "Кыргызстан",
@@ -1705,7 +1705,7 @@ return [
         "capital" => "Bishkek",
     ],
 
-    "LAO" => [
+    "LA" => [
         "iso" => "LAO",
         "name" => "Laos",
         "native" => "ສປປລາວ",
@@ -1719,7 +1719,7 @@ return [
         "capital" => "Vientiane",
     ],
 
-    "LVA" => [
+    "LV" => [
         "iso" => "LVA",
         "name" => "Latvia",
         "native" => "Latvija",
@@ -1733,7 +1733,7 @@ return [
         "capital" => "Riga",
     ],
 
-    "LBN" => [
+    "LB" => [
         "iso" => "LBN",
         "name" => "Lebanon",
         "native" => "لبنان",
@@ -1748,7 +1748,7 @@ return [
         "capital" => "Beirut",
     ],
 
-    "LSO" => [
+    "LS" => [
         "iso" => "LSO",
         "name" => "Lesotho",
         "native" => "Lesotho",
@@ -1763,7 +1763,7 @@ return [
         "capital" => "Maseru",
     ],
 
-    "LBR" => [
+    "LR" => [
         "iso" => "LBR",
         "name" => "Liberia",
         "native" => "Liberia",
@@ -1777,7 +1777,7 @@ return [
         "capital" => "Monrovia",
     ],
 
-    "LBY" => [
+    "LY" => [
         "iso" => "LBY",
         "name" => "Libya",
         "native" => "‏ليبيا",
@@ -1791,7 +1791,7 @@ return [
         "capital" => "Tripolis",
     ],
 
-    "LIE" => [
+    "LI" => [
         "iso" => "LIE",
         "name" => "Liechtenstein",
         "native" => "Liechtenstein",
@@ -1805,7 +1805,7 @@ return [
         "capital" => "Vaduz",
     ],
 
-    "LTU" => [
+    "LT" => [
         "iso" => "LTU",
         "name" => "Lithuania",
         "native" => "Lietuva",
@@ -1819,7 +1819,7 @@ return [
         "capital" => "Vilnius",
     ],
 
-    "LUX" => [
+    "LU" => [
         "iso" => "LUX",
         "name" => "Luxembourg",
         "native" => "Luxembourg",
@@ -1835,7 +1835,7 @@ return [
         "capital" => "Luxembourg",
     ],
 
-    "MAC" => [
+    "MO" => [
         "iso" => "MAC",
         "name" => "Macau S.A.R.",
         "native" => "澳門",
@@ -1850,7 +1850,7 @@ return [
         "capital" => "Macao",
     ],
 
-    "MKD" => [
+    "MK" => [
         "iso" => "MKD",
         "name" => "Macedonia",
         "native" => "Северна Македонија",
@@ -1864,7 +1864,7 @@ return [
         "capital" => "Skopje",
     ],
 
-    "MDG" => [
+    "MG" => [
         "iso" => "MDG",
         "name" => "Madagascar",
         "native" => "Madagasikara",
@@ -1879,7 +1879,7 @@ return [
         "capital" => "Antananarivo",
     ],
 
-    "MWI" => [
+    "MW" => [
         "iso" => "MWI",
         "name" => "Malawi",
         "native" => "Malawi",
@@ -1894,7 +1894,7 @@ return [
         "capital" => "Lilongwe",
     ],
 
-    "MYS" => [
+    "MY" => [
         "iso" => "MYS",
         "name" => "Malaysia",
         "native" => "Malaysia",
@@ -1908,7 +1908,7 @@ return [
         "capital" => "Kuala Lumpur",
     ],
 
-    "MDV" => [
+    "MV" => [
         "iso" => "MDV",
         "name" => "Maldives",
         "native" => "Maldives",
@@ -1922,7 +1922,7 @@ return [
         "capital" => "Male",
     ],
 
-    "MLI" => [
+    "ML" => [
         "iso" => "MLI",
         "name" => "Mali",
         "native" => "Mali",
@@ -1936,7 +1936,7 @@ return [
         "capital" => "Bamako",
     ],
 
-    "MLT" => [
+    "MT" => [
         "iso" => "MLT",
         "name" => "Malta",
         "native" => "Malta",
@@ -1951,7 +1951,7 @@ return [
         "capital" => "Valletta",
     ],
 
-    "IMN" => [
+    "IM" => [
         "iso" => "IMN",
         "name" => "Man (Isle of)",
         "native" => "Isle of Man",
@@ -1966,7 +1966,7 @@ return [
         "capital" => "Douglas, Isle of Man",
     ],
 
-    "MHL" => [
+    "MH" => [
         "iso" => "MHL",
         "name" => "Marshall Islands",
         "native" => "M̧ajeļ",
@@ -1981,7 +1981,7 @@ return [
         "capital" => "Majuro",
     ],
 
-    "MTQ" => [
+    "MQ" => [
         "iso" => "MTQ",
         "name" => "Martinique",
         "native" => "Martinique",
@@ -1995,7 +1995,7 @@ return [
         "capital" => "Fort-de-France",
     ],
 
-    "MRT" => [
+    "MR" => [
         "iso" => "MRT",
         "name" => "Mauritania",
         "native" => "موريتانيا",
@@ -2009,7 +2009,7 @@ return [
         "capital" => "Nouakchott",
     ],
 
-    "MUS" => [
+    "MU" => [
         "iso" => "MUS",
         "name" => "Mauritius",
         "native" => "Maurice",
@@ -2023,7 +2023,7 @@ return [
         "capital" => "Port Louis",
     ],
 
-    "MYT" => [
+    "YT" => [
         "iso" => "MYT",
         "name" => "Mayotte",
         "native" => "Mayotte",
@@ -2037,7 +2037,7 @@ return [
         "capital" => "Mamoudzou",
     ],
 
-    "MEX" => [
+    "MX" => [
         "iso" => "MEX",
         "name" => "Mexico",
         "native" => "México",
@@ -2051,7 +2051,7 @@ return [
         "capital" => "Mexico City",
     ],
 
-    "FSM" => [
+    "FM" => [
         "iso" => "FSM",
         "name" => "Micronesia",
         "native" => "Micronesia",
@@ -2065,7 +2065,7 @@ return [
         "capital" => "Palikir",
     ],
 
-    "MDA" => [
+    "MD" => [
         "iso" => "MDA",
         "name" => "Moldova",
         "native" => "Moldova",
@@ -2079,7 +2079,7 @@ return [
         "capital" => "Chisinau",
     ],
 
-    "MCO" => [
+    "MC" => [
         "iso" => "MCO",
         "name" => "Monaco",
         "native" => "Monaco",
@@ -2093,7 +2093,7 @@ return [
         "capital" => "Monaco",
     ],
 
-    "MNG" => [
+    "MN" => [
         "iso" => "MNG",
         "name" => "Mongolia",
         "native" => "Монгол улс",
@@ -2107,7 +2107,7 @@ return [
         "capital" => "Ulan Bator",
     ],
 
-    "MNE" => [
+    "ME" => [
         "iso" => "MNE",
         "name" => "Montenegro",
         "native" => "Црна Гора",
@@ -2124,7 +2124,7 @@ return [
         "capital" => "Podgorica",
     ],
 
-    "MSR" => [
+    "MS" => [
         "iso" => "MSR",
         "name" => "Montserrat",
         "native" => "Montserrat",
@@ -2138,7 +2138,7 @@ return [
         "capital" => "Plymouth",
     ],
 
-    "MAR" => [
+    "MA" => [
         "iso" => "MAR",
         "name" => "Morocco",
         "native" => "المغرب",
@@ -2152,7 +2152,7 @@ return [
         "capital" => "Rabat",
     ],
 
-    "MOZ" => [
+    "MZ" => [
         "iso" => "MOZ",
         "name" => "Mozambique",
         "native" => "Moçambique",
@@ -2166,7 +2166,7 @@ return [
         "capital" => "Maputo",
     ],
 
-    "MMR" => [
+    "MM" => [
         "iso" => "MMR",
         "name" => "Myanmar",
         "native" => "မြန်မာ",
@@ -2180,7 +2180,7 @@ return [
         "capital" => "Nay Pyi Taw",
     ],
 
-    "NAM" => [
+    "NA" => [
         "iso" => "NAM",
         "name" => "Namibia",
         "native" => "Namibia",
@@ -2195,7 +2195,7 @@ return [
         "capital" => "Windhoek",
     ],
 
-    "NRU" => [
+    "NR" => [
         "iso" => "NRU",
         "name" => "Nauru",
         "native" => "Nauru",
@@ -2210,7 +2210,7 @@ return [
         "capital" => "Yaren",
     ],
 
-    "NPL" => [
+    "NP" => [
         "iso" => "NPL",
         "name" => "Nepal",
         "native" => "नपल",
@@ -2224,7 +2224,7 @@ return [
         "capital" => "Kathmandu",
     ],
 
-    "ANT" => [
+    "AN" => [
         "iso" => "ANT",
         "name" => "Netherlands Antilles",
         "native" => "Netherlands Antilles",
@@ -2236,7 +2236,7 @@ return [
         "capital" => "",
     ],
 
-    "NLD" => [
+    "NL" => [
         "iso" => "NLD",
         "name" => "Netherlands The",
         "native" => "Nederland",
@@ -2250,7 +2250,7 @@ return [
         "capital" => "Amsterdam",
     ],
 
-    "NCL" => [
+    "NC" => [
         "iso" => "NCL",
         "name" => "New Caledonia",
         "native" => "Nouvelle-Calédonie",
@@ -2264,7 +2264,7 @@ return [
         "capital" => "Noumea",
     ],
 
-    "NZL" => [
+    "NZ" => [
         "iso" => "NZL",
         "name" => "New Zealand",
         "native" => "New Zealand",
@@ -2279,7 +2279,7 @@ return [
         "capital" => "Wellington",
     ],
 
-    "NIC" => [
+    "NI" => [
         "iso" => "NIC",
         "name" => "Nicaragua",
         "native" => "Nicaragua",
@@ -2293,7 +2293,7 @@ return [
         "capital" => "Managua",
     ],
 
-    "NER" => [
+    "NE" => [
         "iso" => "NER",
         "name" => "Niger",
         "native" => "Niger",
@@ -2307,7 +2307,7 @@ return [
         "capital" => "Niamey",
     ],
 
-    "NGA" => [
+    "NG" => [
         "iso" => "NGA",
         "name" => "Nigeria",
         "native" => "Nigeria",
@@ -2321,7 +2321,7 @@ return [
         "capital" => "Abuja",
     ],
 
-    "NIU" => [
+    "NU" => [
         "iso" => "NIU",
         "name" => "Niue",
         "native" => "Niuē",
@@ -2335,7 +2335,7 @@ return [
         "capital" => "Alofi",
     ],
 
-    "NFK" => [
+    "NF" => [
         "iso" => "NFK",
         "name" => "Norfolk Island",
         "native" => "Norfolk Island",
@@ -2349,7 +2349,7 @@ return [
         "capital" => "Kingston",
     ],
 
-    "MNP" => [
+    "MP" => [
         "iso" => "MNP",
         "name" => "Northern Mariana Islands",
         "native" => "Northern Mariana Islands",
@@ -2364,7 +2364,7 @@ return [
         "capital" => "Saipan",
     ],
 
-    "NOR" => [
+    "NO" => [
         "iso" => "NOR",
         "name" => "Norway",
         "native" => "Norge",
@@ -2380,7 +2380,7 @@ return [
         "capital" => "Oslo",
     ],
 
-    "OMN" => [
+    "OM" => [
         "iso" => "OMN",
         "name" => "Oman",
         "native" => "عمان",
@@ -2394,7 +2394,7 @@ return [
         "capital" => "Muscat",
     ],
 
-    "PAK" => [
+    "PK" => [
         "iso" => "PAK",
         "name" => "Pakistan",
         "native" => "Pakistan",
@@ -2409,7 +2409,7 @@ return [
         "capital" => "Islamabad",
     ],
 
-    "PLW" => [
+    "PW" => [
         "iso" => "PLW",
         "name" => "Palau",
         "native" => "Palau",
@@ -2423,7 +2423,7 @@ return [
         "capital" => "Melekeok",
     ],
 
-    "PSE" => [
+    "PS" => [
         "iso" => "PSE",
         "name" => "Palestinian Territory Occupied",
         "native" => "فلسطين",
@@ -2437,7 +2437,7 @@ return [
         "capital" => "East Jerusalem",
     ],
 
-    "PAN" => [
+    "PA" => [
         "iso" => "PAN",
         "name" => "Panama",
         "native" => "Panamá",
@@ -2451,7 +2451,7 @@ return [
         "capital" => "Panama City",
     ],
 
-    "PNG" => [
+    "PG" => [
         "iso" => "PNG",
         "name" => "Papua new Guinea",
         "native" => "Papua Niugini",
@@ -2465,7 +2465,7 @@ return [
         "capital" => "Port Moresby",
     ],
 
-    "PRY" => [
+    "PY" => [
         "iso" => "PRY",
         "name" => "Paraguay",
         "native" => "Paraguay",
@@ -2480,7 +2480,7 @@ return [
         "capital" => "Asuncion",
     ],
 
-    "PER" => [
+    "PE" => [
         "iso" => "PER",
         "name" => "Peru",
         "native" => "Perú",
@@ -2494,7 +2494,7 @@ return [
         "capital" => "Lima",
     ],
 
-    "PHL" => [
+    "PH" => [
         "iso" => "PHL",
         "name" => "Philippines",
         "native" => "Pilipinas",
@@ -2508,7 +2508,7 @@ return [
         "capital" => "Manila",
     ],
 
-    "PCN" => [
+    "PN" => [
         "iso" => "PCN",
         "name" => "Pitcairn Island",
         "native" => "Pitcairn Islands",
@@ -2522,7 +2522,7 @@ return [
         "capital" => "Adamstown",
     ],
 
-    "POL" => [
+    "PL" => [
         "iso" => "POL",
         "name" => "Poland",
         "native" => "Polska",
@@ -2536,7 +2536,7 @@ return [
         "capital" => "Warsaw",
     ],
 
-    "PRT" => [
+    "PT" => [
         "iso" => "PRT",
         "name" => "Portugal",
         "native" => "Portugal",
@@ -2550,7 +2550,7 @@ return [
         "capital" => "Lisbon",
     ],
 
-    "PRI" => [
+    "PR" => [
         "iso" => "PRI",
         "name" => "Puerto Rico",
         "native" => "Puerto Rico",
@@ -2565,7 +2565,7 @@ return [
         "capital" => "San Juan",
     ],
 
-    "QAT" => [
+    "QA" => [
         "iso" => "QAT",
         "name" => "Qatar",
         "native" => "قطر",
@@ -2579,7 +2579,7 @@ return [
         "capital" => "Doha",
     ],
 
-    "REU" => [
+    "RE" => [
         "iso" => "REU",
         "name" => "Reunion",
         "native" => "La Réunion",
@@ -2593,7 +2593,7 @@ return [
         "capital" => "Saint-Denis",
     ],
 
-    "ROU" => [
+    "RO" => [
         "iso" => "ROU",
         "name" => "Romania",
         "native" => "România",
@@ -2607,7 +2607,7 @@ return [
         "capital" => "Bucharest",
     ],
 
-    "RUS" => [
+    "RU" => [
         "iso" => "RUS",
         "name" => "Russia",
         "native" => "Россия",
@@ -2621,7 +2621,7 @@ return [
         "capital" => "Moscow",
     ],
 
-    "RWA" => [
+    "RW" => [
         "iso" => "RWA",
         "name" => "Rwanda",
         "native" => "Rwanda",
@@ -2637,7 +2637,7 @@ return [
         "capital" => "Kigali",
     ],
 
-    "SHN" => [
+    "SH" => [
         "iso" => "SHN",
         "name" => "Saint Helena",
         "native" => "Saint Helena",
@@ -2651,7 +2651,7 @@ return [
         "capital" => "Jamestown",
     ],
 
-    "KNA" => [
+    "KN" => [
         "iso" => "KNA",
         "name" => "Saint Kitts And Nevis",
         "native" => "Saint Kitts and Nevis",
@@ -2665,7 +2665,7 @@ return [
         "capital" => "Basseterre",
     ],
 
-    "LCA" => [
+    "LC" => [
         "iso" => "LCA",
         "name" => "Saint Lucia",
         "native" => "Saint Lucia",
@@ -2679,7 +2679,7 @@ return [
         "capital" => "Castries",
     ],
 
-    "SPM" => [
+    "PM" => [
         "iso" => "SPM",
         "name" => "Saint Pierre and Miquelon",
         "native" => "Saint-Pierre-et-Miquelon",
@@ -2693,7 +2693,7 @@ return [
         "capital" => "Saint-Pierre",
     ],
 
-    "VCT" => [
+    "VC" => [
         "iso" => "VCT",
         "name" => "Saint Vincent And The Grenadines",
         "native" => "Saint Vincent and the Grenadines",
@@ -2707,7 +2707,7 @@ return [
         "capital" => "Kingstown",
     ],
 
-    "BLM" => [
+    "BL" => [
         "iso" => "BLM",
         "name" => "Saint-Barthelemy",
         "native" => "Saint-Barthélemy",
@@ -2721,7 +2721,7 @@ return [
         "capital" => "Gustavia",
     ],
 
-    "MAF" => [
+    "MF" => [
         "iso" => "MAF",
         "name" => "Saint-Martin (French part)",
         "native" => "Saint-Martin",
@@ -2737,7 +2737,7 @@ return [
         "capital" => "Marigot",
     ],
 
-    "WSM" => [
+    "WS" => [
         "iso" => "WSM",
         "name" => "Samoa",
         "native" => "Samoa",
@@ -2752,7 +2752,7 @@ return [
         "capital" => "Apia",
     ],
 
-    "SMR" => [
+    "SM" => [
         "iso" => "SMR",
         "name" => "San Marino",
         "native" => "San Marino",
@@ -2766,7 +2766,7 @@ return [
         "capital" => "San Marino",
     ],
 
-    "STP" => [
+    "ST" => [
         "iso" => "STP",
         "name" => "Sao Tome and Principe",
         "native" => "São Tomé e Príncipe",
@@ -2780,7 +2780,7 @@ return [
         "capital" => "Sao Tome",
     ],
 
-    "SAU" => [
+    "SA" => [
         "iso" => "SAU",
         "name" => "Saudi Arabia",
         "native" => "العربية السعودية",
@@ -2794,7 +2794,7 @@ return [
         "capital" => "Riyadh",
     ],
 
-    "SEN" => [
+    "SN" => [
         "iso" => "SEN",
         "name" => "Senegal",
         "native" => "Sénégal",
@@ -2808,7 +2808,7 @@ return [
         "capital" => "Dakar",
     ],
 
-    "SRB" => [
+    "RS" => [
         "iso" => "SRB",
         "name" => "Serbia",
         "native" => "Србија",
@@ -2822,7 +2822,7 @@ return [
         "capital" => "Belgrade",
     ],
 
-    "SYC" => [
+    "SC" => [
         "iso" => "SYC",
         "name" => "Seychelles",
         "native" => "Seychelles",
@@ -2837,7 +2837,7 @@ return [
         "capital" => "Victoria",
     ],
 
-    "SLE" => [
+    "SL" => [
         "iso" => "SLE",
         "name" => "Sierra Leone",
         "native" => "Sierra Leone",
@@ -2851,7 +2851,7 @@ return [
         "capital" => "Freetown",
     ],
 
-    "SGP" => [
+    "SG" => [
         "iso" => "SGP",
         "name" => "Singapore",
         "native" => "Singapore",
@@ -2868,7 +2868,7 @@ return [
         "capital" => "Singapur",
     ],
 
-    "SVK" => [
+    "SK" => [
         "iso" => "SVK",
         "name" => "Slovakia",
         "native" => "Slovensko",
@@ -2882,7 +2882,7 @@ return [
         "capital" => "Bratislava",
     ],
 
-    "SVN" => [
+    "SI" => [
         "iso" => "SVN",
         "name" => "Slovenia",
         "native" => "Slovenija",
@@ -2896,7 +2896,7 @@ return [
         "capital" => "Ljubljana",
     ],
 
-    "SLB" => [
+    "SB" => [
         "iso" => "SLB",
         "name" => "Solomon Islands",
         "native" => "Solomon Islands",
@@ -2910,7 +2910,7 @@ return [
         "capital" => "Honiara",
     ],
 
-    "SOM" => [
+    "SO" => [
         "iso" => "SOM",
         "name" => "Somalia",
         "native" => "Soomaaliya",
@@ -2925,7 +2925,7 @@ return [
         "capital" => "Mogadishu",
     ],
 
-    "ZAF" => [
+    "ZA" => [
         "iso" => "ZAF",
         "name" => "South Africa",
         "native" => "South Africa",
@@ -2948,7 +2948,7 @@ return [
         "capital" => "Pretoria",
     ],
 
-    "SGS" => [
+    "GS" => [
         "iso" => "SGS",
         "name" => "South Georgia",
         "native" => "South Georgia",
@@ -2962,7 +2962,7 @@ return [
         "capital" => "Grytviken",
     ],
 
-    "SSD" => [
+    "SS" => [
         "iso" => "SSD",
         "name" => "South Sudan",
         "native" => "South Sudan",
@@ -2976,7 +2976,7 @@ return [
         "capital" => "Juba",
     ],
 
-    "ESP" => [
+    "ES" => [
         "iso" => "ESP",
         "name" => "Spain",
         "native" => "España",
@@ -2994,7 +2994,7 @@ return [
         "capital" => "Madrid",
     ],
 
-    "LKA" => [
+    "LK" => [
         "iso" => "LKA",
         "name" => "Sri Lanka",
         "native" => "śrī laṃkāva",
@@ -3009,7 +3009,7 @@ return [
         "capital" => "Colombo",
     ],
 
-    "SDN" => [
+    "SD" => [
         "iso" => "SDN",
         "name" => "Sudan",
         "native" => "السودان",
@@ -3024,7 +3024,7 @@ return [
         "capital" => "Khartoum",
     ],
 
-    "SUR" => [
+    "SR" => [
         "iso" => "SUR",
         "name" => "Suriname",
         "native" => "Suriname",
@@ -3038,7 +3038,7 @@ return [
         "capital" => "Paramaribo",
     ],
 
-    "SJM" => [
+    "SJ" => [
         "iso" => "SJM",
         "name" => "Svalbard And Jan Mayen Islands",
         "native" => "Svalbard og Jan Mayen",
@@ -3052,7 +3052,7 @@ return [
         "capital" => "Longyearbyen",
     ],
 
-    "SWZ" => [
+    "SZ" => [
         "iso" => "SWZ",
         "name" => "Swaziland",
         "native" => "Swaziland",
@@ -3067,7 +3067,7 @@ return [
         "capital" => "Mbabane",
     ],
 
-    "SWE" => [
+    "SE" => [
         "iso" => "SWE",
         "name" => "Sweden",
         "native" => "Sverige",
@@ -3081,7 +3081,7 @@ return [
         "capital" => "Stockholm",
     ],
 
-    "CHE" => [
+    "CH" => [
         "iso" => "CHE",
         "name" => "Switzerland",
         "native" => "Schweiz",
@@ -3097,7 +3097,7 @@ return [
         "capital" => "Berne",
     ],
 
-    "SYR" => [
+    "SY" => [
         "iso" => "SYR",
         "name" => "Syria",
         "native" => "سوريا",
@@ -3111,7 +3111,7 @@ return [
         "capital" => "Damascus",
     ],
 
-    "TWN" => [
+    "TW" => [
         "iso" => "TWN",
         "name" => "Taiwan",
         "native" => "臺灣",
@@ -3125,7 +3125,7 @@ return [
         "capital" => "Taipei",
     ],
 
-    "TJK" => [
+    "TJ" => [
         "iso" => "TJK",
         "name" => "Tajikistan",
         "native" => "Тоҷикистон",
@@ -3140,7 +3140,7 @@ return [
         "capital" => "Dushanbe",
     ],
 
-    "TZA" => [
+    "TZ" => [
         "iso" => "TZA",
         "name" => "Tanzania",
         "native" => "Tanzania",
@@ -3155,7 +3155,7 @@ return [
         "capital" => "Dodoma",
     ],
 
-    "THA" => [
+    "TH" => [
         "iso" => "THA",
         "name" => "Thailand",
         "native" => "ประเทศไทย",
@@ -3169,7 +3169,7 @@ return [
         "capital" => "Bangkok",
     ],
 
-    "TGO" => [
+    "TG" => [
         "iso" => "TGO",
         "name" => "Togo",
         "native" => "Togo",
@@ -3183,7 +3183,7 @@ return [
         "capital" => "Lome",
     ],
 
-    "TKL" => [
+    "TK" => [
         "iso" => "TKL",
         "name" => "Tokelau",
         "native" => "Tokelau",
@@ -3197,7 +3197,7 @@ return [
         "capital" => "",
     ],
 
-    "TON" => [
+    "TO" => [
         "iso" => "TON",
         "name" => "Tonga",
         "native" => "Tonga",
@@ -3212,7 +3212,7 @@ return [
         "capital" => "Nuku'alofa",
     ],
 
-    "TTO" => [
+    "TT" => [
         "iso" => "TTO",
         "name" => "Trinidad And Tobago",
         "native" => "Trinidad and Tobago",
@@ -3226,7 +3226,7 @@ return [
         "capital" => "Port of Spain",
     ],
 
-    "TUN" => [
+    "TN" => [
         "iso" => "TUN",
         "name" => "Tunisia",
         "native" => "تونس",
@@ -3240,7 +3240,7 @@ return [
         "capital" => "Tunis",
     ],
 
-    "TUR" => [
+    "TR" => [
         "iso" => "TUR",
         "name" => "Turkey",
         "native" => "Türkiye",
@@ -3254,7 +3254,7 @@ return [
         "capital" => "Ankara",
     ],
 
-    "TKM" => [
+    "TM" => [
         "iso" => "TKM",
         "name" => "Turkmenistan",
         "native" => "Türkmenistan",
@@ -3269,7 +3269,7 @@ return [
         "capital" => "Ashgabat",
     ],
 
-    "TCA" => [
+    "TC" => [
         "iso" => "TCA",
         "name" => "Turks And Caicos Islands",
         "native" => "Turks and Caicos Islands",
@@ -3283,7 +3283,7 @@ return [
         "capital" => "Cockburn Town",
     ],
 
-    "TUV" => [
+    "TV" => [
         "iso" => "TUV",
         "name" => "Tuvalu",
         "native" => "Tuvalu",
@@ -3297,7 +3297,7 @@ return [
         "capital" => "Funafuti",
     ],
 
-    "UGA" => [
+    "UG" => [
         "iso" => "UGA",
         "name" => "Uganda",
         "native" => "Uganda",
@@ -3312,7 +3312,7 @@ return [
         "capital" => "Kampala",
     ],
 
-    "UKR" => [
+    "UA" => [
         "iso" => "UKR",
         "name" => "Ukraine",
         "native" => "Україна",
@@ -3326,7 +3326,7 @@ return [
         "capital" => "Kiev",
     ],
 
-    "ARE" => [
+    "AE" => [
         "iso" => "ARE",
         "name" => "United Arab Emirates",
         "native" => "دولة الإمارات العربية المتحدة",
@@ -3340,7 +3340,7 @@ return [
         "capital" => "Abu Dhabi",
     ],
 
-    "GBR" => [
+    "GB" => [
         "iso" => "GBR",
         "name" => "United Kingdom",
         "native" => "United Kingdom",
@@ -3354,7 +3354,7 @@ return [
         "capital" => "London",
     ],
 
-    "USA" => [
+    "US" => [
         "iso" => "USA",
         "name" => "United States",
         "native" => "United States",
@@ -3368,7 +3368,7 @@ return [
         "capital" => "Washington",
     ],
 
-    "UMI" => [
+    "UM" => [
         "iso" => "UMI",
         "name" => "United States Minor Outlying Islands",
         "native" => "United States Minor Outlying Islands",
@@ -3382,7 +3382,7 @@ return [
         "capital" => "",
     ],
 
-    "URY" => [
+    "UY" => [
         "iso" => "URY",
         "name" => "Uruguay",
         "native" => "Uruguay",
@@ -3396,7 +3396,7 @@ return [
         "capital" => "Montevideo",
     ],
 
-    "UZB" => [
+    "UZ" => [
         "iso" => "UZB",
         "name" => "Uzbekistan",
         "native" => "O‘zbekiston",
@@ -3411,7 +3411,7 @@ return [
         "capital" => "Tashkent",
     ],
 
-    "VUT" => [
+    "VU" => [
         "iso" => "VUT",
         "name" => "Vanuatu",
         "native" => "Vanuatu",
@@ -3427,7 +3427,7 @@ return [
         "capital" => "Port Vila",
     ],
 
-    "VAT" => [
+    "VA" => [
         "iso" => "VAT",
         "name" => "Vatican City State (Holy See)",
         "native" => "Vaticano",
@@ -3442,7 +3442,7 @@ return [
         "capital" => "Vatican City",
     ],
 
-    "VEN" => [
+    "VE" => [
         "iso" => "VEN",
         "name" => "Venezuela",
         "native" => "Venezuela",
@@ -3456,7 +3456,7 @@ return [
         "capital" => "Caracas",
     ],
 
-    "VNM" => [
+    "VN" => [
         "iso" => "VNM",
         "name" => "Vietnam",
         "native" => "Việt Nam",
@@ -3470,7 +3470,7 @@ return [
         "capital" => "Hanoi",
     ],
 
-    "VGB" => [
+    "VG" => [
         "iso" => "VGB",
         "name" => "Virgin Islands (British)",
         "native" => "British Virgin Islands",
@@ -3484,7 +3484,7 @@ return [
         "capital" => "Road Town",
     ],
 
-    "VIR" => [
+    "VI" => [
         "iso" => "VIR",
         "name" => "Virgin Islands (US)",
         "native" => "United States Virgin Islands",
@@ -3498,7 +3498,7 @@ return [
         "capital" => "Charlotte Amalie",
     ],
 
-    "WLF" => [
+    "WF" => [
         "iso" => "WLF",
         "name" => "Wallis And Futuna Islands",
         "native" => "Wallis et Futuna",
@@ -3512,7 +3512,7 @@ return [
         "capital" => "Mata Utu",
     ],
 
-    "ESH" => [
+    "EH" => [
         "iso" => "ESH",
         "name" => "Western Sahara",
         "native" => "الصحراء الغربية",
@@ -3526,7 +3526,7 @@ return [
         "capital" => "El-Aaiun",
     ],
 
-    "YEM" => [
+    "YE" => [
         "iso" => "YEM",
         "name" => "Yemen",
         "native" => "اليَمَن",
@@ -3540,7 +3540,7 @@ return [
         "capital" => "Sanaa",
     ],
 
-    "ZMB" => [
+    "ZM" => [
         "iso" => "ZMB",
         "name" => "Zambia",
         "native" => "Zambia",
@@ -3554,7 +3554,7 @@ return [
         "capital" => "Lusaka",
     ],
 
-    "ZWE" => [
+    "ZW" => [
         "iso" => "ZWE",
         "name" => "Zimbabwe",
         "native" => "Zimbabwe",
