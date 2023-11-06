@@ -2783,7 +2783,7 @@ return [
     "SA" => [
         "iso" => "SAU",
         "name" => "Saudi Arabia",
-        "native" => "العربية السعودية",
+        "native" => "المملكة العربية السعودية",
         "currency" => "SAR",
         "phone" => "966",
         "timezone" => "Asia/Riyadh",
