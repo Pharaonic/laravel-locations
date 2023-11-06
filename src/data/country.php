@@ -3569,4 +3569,18 @@ return [
         "continent" => "AF",
         "capital" => "Harare",
     ],
+    "CE" => [
+        "iso" => "CH",
+        "name" => "Chechen",
+        "native" => "Chechen",
+        "currency" => "naxar",
+        "phone" => "871",
+        "timezone" => "Europe/Moscow",
+        "languages" => [
+            "CE",
+            "RU",
+        ],
+        "continent" => "AS",
+        "capital" => "Grozny",
+    ],
 ];
