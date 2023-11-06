@@ -593,6 +593,21 @@ return [
         "capital" => "George Town",
     ],
 
+    "CE" => [
+        "iso" => "CE",
+        "name" => "Chechnya",
+        "native" => "Chechnya",
+        "currency" => "naxar",
+        "phone" => "871",
+        "timezone" => "Europe/Moscow",
+        "languages" => [
+            "CE",
+            "RU",
+        ],
+        "continent" => "AS",
+        "capital" => "Grozny",
+    ],
+
     "CF" => [
         "iso" => "CAF",
         "name" => "Central African Republic",
@@ -3568,19 +3583,5 @@ return [
         ],
         "continent" => "AF",
         "capital" => "Harare",
-    ],
-    "CE" => [
-        "iso" => "CH",
-        "name" => "Chechen",
-        "native" => "Chechen",
-        "currency" => "naxar",
-        "phone" => "871",
-        "timezone" => "Europe/Moscow",
-        "languages" => [
-            "CE",
-            "RU",
-        ],
-        "continent" => "AS",
-        "capital" => "Grozny",
     ],
 ];
