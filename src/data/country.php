@@ -2229,7 +2229,7 @@ return [
         "name" => "Netherlands Antilles",
         "native" => "Netherlands Antilles",
         "currency" => "",
-        "phone" => "",
+        "phone" => "599",
         "timezone" => null,
         "languages" => [],
         "continent" => "SA",
@@ -2953,7 +2953,7 @@ return [
         "name" => "South Georgia",
         "native" => "South Georgia",
         "currency" => "GBP",
-        "phone" => "",
+        "phone" => "500",
         "timezone" => "Atlantic/South_Georgia",
         "languages" => [
             "EN",
