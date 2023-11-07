@@ -596,7 +596,7 @@ return [
     "CE" => [
         "iso" => "CE",
         "name" => "Chechnya",
-        "native" => "Chechnya",
+        "native" => "Нохчийчоь",
         "currency" => "naxar",
         "phone" => "871",
         "timezone" => "Europe/Moscow",
@@ -1719,7 +1719,20 @@ return [
         "continent" => "AS",
         "capital" => "Bishkek",
     ],
-
+    "XK" => [
+        "iso" => "XKX",
+        "name" => "Kosovo",
+        "native" => "Косово",
+        "currency" => "EUR",
+        "phone" => "383",
+        "timezone" => "Europe/Berlin",
+        "languages" => [
+            "SQI",
+            "SRP",
+        ],
+        "continent" => "EU",
+        "capital" => "Pristina",
+    ],
     "LA" => [
         "iso" => "LAO",
         "name" => "Laos",
