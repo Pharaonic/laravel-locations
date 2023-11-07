@@ -593,6 +593,21 @@ return [
         "capital" => "George Town",
     ],
 
+    "CE" => [
+        "iso" => "CE",
+        "name" => "Chechnya",
+        "native" => "Нохчийчоь",
+        "currency" => "naxar",
+        "phone" => "871",
+        "timezone" => "Europe/Moscow",
+        "languages" => [
+            "CE",
+            "RU",
+        ],
+        "continent" => "AS",
+        "capital" => "Grozny",
+    ],
+
     "CF" => [
         "iso" => "CAF",
         "name" => "Central African Republic",
@@ -1704,7 +1719,20 @@ return [
         "continent" => "AS",
         "capital" => "Bishkek",
     ],
-
+    "XK" => [
+        "iso" => "XKX",
+        "name" => "Kosovo",
+        "native" => "Косово",
+        "currency" => "EUR",
+        "phone" => "383",
+        "timezone" => "Europe/Berlin",
+        "languages" => [
+            "SQI",
+            "SRP",
+        ],
+        "continent" => "EU",
+        "capital" => "Pristina",
+    ],
     "LA" => [
         "iso" => "LAO",
         "name" => "Laos",
