@@ -115,17 +115,17 @@ return [
         "capital" => "The Valley",
     ],
 
-    "AQ" => [
-        "iso" => "ATA",
-        "name" => "Antarctica",
-        "native" => "Antarctica",
-        "currency" => "",
-        "phone" => "",
-        "timezone" => "Antarctica/McMurdo",
-        "languages" => [],
-        "continent" => "AN",
-        "capital" => "",
-    ],
+//    "AQ" => [
+//        "iso" => "ATA",
+//        "name" => "Antarctica",
+//        "native" => "Antarctica",
+//        "currency" => "",
+//        "phone" => "",
+//        "timezone" => "Antarctica/McMurdo",
+//        "languages" => [],
+//        "continent" => "AN",
+//        "capital" => "",
+//    ],
 
     "AG" => [
         "iso" => "ATG",
@@ -419,21 +419,21 @@ return [
         "capital" => "Gaborone",
     ],
 
-    "BV" => [
-        "iso" => "BVT",
-        "name" => "Bouvet Island",
-        "native" => "Bouvetøya",
-        "currency" => "NOK",
-        "phone" => "",
-        "timezone" => "Europe/Oslo",
-        "languages" => [
-            "NO",
-            "NB",
-            "NN",
-        ],
-        "continent" => "AN",
-        "capital" => "",
-    ],
+//    "BV" => [
+//        "iso" => "BVT",
+//        "name" => "Bouvet Island",
+//        "native" => "Bouvetøya",
+//        "currency" => "NOK",
+//        "phone" => "",
+//        "timezone" => "Europe/Oslo",
+//        "languages" => [
+//            "NO",
+//            "NB",
+//            "NN",
+//        ],
+//        "continent" => "AN",
+//        "capital" => "",
+//    ],
 
     "BR" => [
         "iso" => "BRA",
@@ -1131,19 +1131,19 @@ return [
         "capital" => "Papeete",
     ],
 
-    "TF" => [
-        "iso" => "ATF",
-        "name" => "French Southern Territories",
-        "native" => "Territoire des Terres australes et antarctiques fr",
-        "currency" => "EUR",
-        "phone" => "",
-        "timezone" => "Indian/Kerguelen",
-        "languages" => [
-            "FR",
-        ],
-        "continent" => "AN",
-        "capital" => "Port-aux-Francais",
-    ],
+//    "TF" => [
+//        "iso" => "ATF",
+//        "name" => "French Southern Territories",
+//        "native" => "Territoire des Terres australes et antarctiques fr",
+//        "currency" => "EUR",
+//        "phone" => "",
+//        "timezone" => "Indian/Kerguelen",
+//        "languages" => [
+//            "FR",
+//        ],
+//        "continent" => "AN",
+//        "capital" => "Port-aux-Francais",
+//    ],
 
     "GA" => [
         "iso" => "GAB",
