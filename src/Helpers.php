@@ -48,6 +48,17 @@ function getContinent(string $code, ?string $lang = null)
     return $continents->{$code};
 }
 
+
+/**
+ * Get Currencies List
+ */
+function getCurrencies()
+{
+    $currencies = require __DIR__ . DIRECTORY_SEPARATOR . 'data' . DIRECTORY_SEPARATOR . 'currency.php';
+
+    return (object)$currencies;
+}
+
 /**
  * Get Countries List
  */
