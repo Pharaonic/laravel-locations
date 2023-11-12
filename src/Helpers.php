@@ -56,23 +56,7 @@ function getCurrencies()
 {
     $currencies = require __DIR__ . DIRECTORY_SEPARATOR . 'data' . DIRECTORY_SEPARATOR . 'currency.php';
 
-    return $currencies;
-}
-
-
-/**
- * Get getCurrency List by country code
- * @param $countryCode
- * @return mixed|void|null
- */
-function getCurrency($countryCode)
-{
-    $country = getCountry($countryCode);
-    if (!$country) {
-        abort(404);
-    }else{
-        return key_exists($country->currency, getCurrencies()) ? getCurrencies()[$country->currency] : null;
-    }
+    return (object)$currencies;
 }
 
 /**
