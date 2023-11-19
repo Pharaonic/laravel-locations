@@ -72,6 +72,7 @@ function getCountries(?string $lang = null)
     if ($lang != 'en') {
         $list = require __DIR__ . DIRECTORY_SEPARATOR . 'lang' . DIRECTORY_SEPARATOR . $lang . DIRECTORY_SEPARATOR . 'country.php';
         $nationalities = require __DIR__ . DIRECTORY_SEPARATOR . 'lang' . DIRECTORY_SEPARATOR . $lang . DIRECTORY_SEPARATOR . 'nationality.php';
+        
         foreach($countries as $code => &$info){
             $info['name'] = $list[$code];
             $info['nationality'] = $nationalities[$code];
