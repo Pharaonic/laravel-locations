@@ -15,7 +15,7 @@ return [
         ],
         "continent" => "AS",
         "capital" => "Kabul",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Afghan"
     ],
     "AX" => [
         "iso" => "ALA",
@@ -29,7 +29,7 @@ return [
         ],
         "continent" => "EU",
         "capital" => "Mariehamn",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Åland Island"
     ],
     "AL" => [
         "iso" => "ALB",
@@ -43,7 +43,7 @@ return [
         ],
         "continent" => "EU",
         "capital" => "Tirana",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Albanian"
     ],
     "DZ" => [
         "iso" => "DZA",
@@ -57,7 +57,7 @@ return [
         ],
         "continent" => "AF",
         "capital" => "Algiers",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Algerian"
     ],
     "AS" => [
         "iso" => "ASM",
@@ -72,7 +72,7 @@ return [
         ],
         "continent" => "OC",
         "capital" => "Pago Pago",
-        "nationality" => "Zimbabwean"
+        "nationality" => "American Samoan"
     ],
     "AD" => [
         "iso" => "AND",
@@ -86,7 +86,7 @@ return [
         ],
         "continent" => "EU",
         "capital" => "Andorra la Vella",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Andorran"
     ],
     "AO" => [
         "iso" => "AGO",
@@ -100,7 +100,7 @@ return [
         ],
         "continent" => "AF",
         "capital" => "Luanda",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Angolan"
     ],
     "AI" => [
         "iso" => "AIA",
@@ -114,7 +114,7 @@ return [
         ],
         "continent" => "NA",
         "capital" => "The Valley",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Anguillan"
     ],
     "AG" => [
         "iso" => "ATG",
@@ -128,7 +128,7 @@ return [
         ],
         "continent" => "NA",
         "capital" => "St. John's",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Antiguan or Barbudan"
     ],
     "AR" => [
         "iso" => "ARG",
@@ -143,7 +143,7 @@ return [
         ],
         "continent" => "SA",
         "capital" => "Buenos Aires",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Argentine"
     ],
     "AM" => [
         "iso" => "ARM",
@@ -158,7 +158,7 @@ return [
         ],
         "continent" => "AS",
         "capital" => "Yerevan",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Armenian"
     ],
     "AW" => [
         "iso" => "ABW",
@@ -173,7 +173,7 @@ return [
         ],
         "continent" => "NA",
         "capital" => "Oranjestad",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Aruban"
     ],
     "AU" => [
         "iso" => "AUS",
@@ -187,7 +187,7 @@ return [
         ],
         "continent" => "OC",
         "capital" => "Canberra",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Australian"
     ],
     "AT" => [
         "iso" => "AUT",
@@ -201,7 +201,7 @@ return [
         ],
         "continent" => "EU",
         "capital" => "Vienna",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Austrian"
     ],
     "AZ" => [
         "iso" => "AZE",
@@ -215,7 +215,7 @@ return [
         ],
         "continent" => "AS",
         "capital" => "Baku",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Azerbaijani, Azeri"
     ],
     "BS" => [
         "iso" => "BHS",
@@ -229,7 +229,7 @@ return [
         ],
         "continent" => "NA",
         "capital" => "Nassau",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Bahamian"
     ],
     "BH" => [
         "iso" => "BHR",
@@ -243,7 +243,7 @@ return [
         ],
         "continent" => "AS",
         "capital" => "Manama",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Bahraini"
     ],
     "BD" => [
         "iso" => "BGD",
@@ -257,7 +257,7 @@ return [
         ],
         "continent" => "AS",
         "capital" => "Dhaka",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Bangladeshi"
     ],
     "BB" => [
         "iso" => "BRB",
@@ -271,7 +271,7 @@ return [
         ],
         "continent" => "NA",
         "capital" => "Bridgetown",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Barbadian"
     ],
     "BY" => [
         "iso" => "BLR",
@@ -286,7 +286,7 @@ return [
         ],
         "continent" => "EU",
         "capital" => "Minsk",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Belarusian"
     ],
     "BE" => [
         "iso" => "BEL",
@@ -302,7 +302,7 @@ return [
         ],
         "continent" => "EU",
         "capital" => "Brussels",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Belgian"
     ],
     "BZ" => [
         "iso" => "BLZ",
@@ -317,7 +317,7 @@ return [
         ],
         "continent" => "NA",
         "capital" => "Belmopan",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Belizean"
     ],
     "BJ" => [
         "iso" => "BEN",
@@ -331,7 +331,7 @@ return [
         ],
         "continent" => "AF",
         "capital" => "Porto-Novo",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Beninese, Beninois"
     ],
     "BM" => [
         "iso" => "BMU",
@@ -345,7 +345,7 @@ return [
         ],
         "continent" => "NA",
         "capital" => "Hamilton",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Bermudian, Bermudan"
     ],
     "BT" => [
         "iso" => "BTN",
@@ -359,7 +359,7 @@ return [
         ],
         "continent" => "AS",
         "capital" => "Thimphu",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Bhutanese"
     ],
     "BO" => [
         "iso" => "BOL",
@@ -375,7 +375,7 @@ return [
         ],
         "continent" => "SA",
         "capital" => "Sucre",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Bolivian"
     ],
     "BA" => [
         "iso" => "BIH",
@@ -391,7 +391,7 @@ return [
         ],
         "continent" => "EU",
         "capital" => "Sarajevo",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Bosnian or Herzegovinian"
     ],
     "BW" => [
         "iso" => "BWA",
@@ -406,7 +406,7 @@ return [
         ],
         "continent" => "AF",
         "capital" => "Gaborone",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Motswana, Botswanan"
     ],
     "BR" => [
         "iso" => "BRA",
@@ -420,7 +420,7 @@ return [
         ],
         "continent" => "SA",
         "capital" => "Brasilia",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Brazilian"
     ],
     "IO" => [
         "iso" => "IOT",
@@ -434,7 +434,7 @@ return [
         ],
         "continent" => "AS",
         "capital" => "Diego Garcia",
-        "nationality" => "Zimbabwean"
+        "nationality" => "BIOT"
     ],
     "BN" => [
         "iso" => "BRN",
@@ -448,7 +448,7 @@ return [
         ],
         "continent" => "AS",
         "capital" => "Bandar Seri Begawan",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Bruneian"
     ],
     "BG" => [
         "iso" => "BGR",
@@ -462,7 +462,7 @@ return [
         ],
         "continent" => "EU",
         "capital" => "Sofia",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Bulgarian"
     ],
     "BF" => [
         "iso" => "BFA",
@@ -477,7 +477,7 @@ return [
         ],
         "continent" => "AF",
         "capital" => "Ouagadougou",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Burkinabé"
     ],
     "BI" => [
         "iso" => "BDI",
@@ -492,7 +492,7 @@ return [
         ],
         "continent" => "AF",
         "capital" => "Bujumbura",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Burundian"
     ],
     "KH" => [
         "iso" => "KHM",
@@ -506,7 +506,7 @@ return [
         ],
         "continent" => "AS",
         "capital" => "Phnom Penh",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Cambodian"
     ],
     "CM" => [
         "iso" => "CMR",
@@ -521,7 +521,7 @@ return [
         ],
         "continent" => "AF",
         "capital" => "Yaounde",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Cameroonian"
     ],
     "CA" => [
         "iso" => "CAN",
@@ -536,7 +536,7 @@ return [
         ],
         "continent" => "NA",
         "capital" => "Ottawa",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Canadian"
     ],
     "CV" => [
         "iso" => "CPV",
@@ -550,7 +550,7 @@ return [
         ],
         "continent" => "AF",
         "capital" => "Praia",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Cabo Verdean"
     ],
     "KY" => [
         "iso" => "CYM",
@@ -564,7 +564,7 @@ return [
         ],
         "continent" => "NA",
         "capital" => "George Town",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Caymanian"
     ],
     "CE" => [
         "iso" => "CE",
@@ -579,7 +579,7 @@ return [
         ],
         "continent" => "AS",
         "capital" => "Grozny",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Chechens"
     ],
     "CF" => [
         "iso" => "CAF",
@@ -594,7 +594,7 @@ return [
         ],
         "continent" => "AF",
         "capital" => "Bangui",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Central African"
     ],
     "TD" => [
         "iso" => "TCD",
@@ -609,7 +609,7 @@ return [
         ],
         "continent" => "AF",
         "capital" => "N'Djamena",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Chadian"
     ],
     "CL" => [
         "iso" => "CHL",
@@ -623,7 +623,7 @@ return [
         ],
         "continent" => "SA",
         "capital" => "Santiago",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Chilean"
     ],
     "CN" => [
         "iso" => "CHN",
@@ -637,7 +637,7 @@ return [
         ],
         "continent" => "AS",
         "capital" => "Beijing",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Chinese"
     ],
     "CX" => [
         "iso" => "CXR",
@@ -651,7 +651,7 @@ return [
         ],
         "continent" => "AS",
         "capital" => "Flying Fish Cove",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Christmas Island"
     ],
     "CC" => [
         "iso" => "CCK",
@@ -665,7 +665,7 @@ return [
         ],
         "continent" => "AS",
         "capital" => "West Island",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Cocos Island"
     ],
     "CO" => [
         "iso" => "COL",
@@ -679,7 +679,7 @@ return [
         ],
         "continent" => "SA",
         "capital" => "Bogota",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Colombian"
     ],
     "KM" => [
         "iso" => "COM",
@@ -694,7 +694,7 @@ return [
         ],
         "continent" => "AF",
         "capital" => "Moroni",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Comoran, Comorian"
     ],
     "CG" => [
         "iso" => "COG",
@@ -709,7 +709,7 @@ return [
         ],
         "continent" => "AF",
         "capital" => "Brazzaville",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Congolese"
     ],
     "CD" => [
         "iso" => "COD",
@@ -727,7 +727,7 @@ return [
         ],
         "continent" => "AF",
         "capital" => "Kinshasa",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Congolese"
     ],
     "CK" => [
         "iso" => "COK",
@@ -741,7 +741,7 @@ return [
         ],
         "continent" => "OC",
         "capital" => "Avarua",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Cook Island"
     ],
     "CR" => [
         "iso" => "CRI",
@@ -755,7 +755,7 @@ return [
         ],
         "continent" => "NA",
         "capital" => "San Jose",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Costa Rican"
     ],
     "CI" => [
         "iso" => "CIV",
@@ -769,7 +769,7 @@ return [
         ],
         "continent" => "AF",
         "capital" => "Yamoussoukro",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Ivorian"
     ],
     "HR" => [
         "iso" => "HRV",
@@ -783,7 +783,7 @@ return [
         ],
         "continent" => "EU",
         "capital" => "Zagreb",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Croatian"
     ],
     "CU" => [
         "iso" => "CUB",
@@ -797,7 +797,7 @@ return [
         ],
         "continent" => "NA",
         "capital" => "Havana",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Cuban"
     ],
     "CY" => [
         "iso" => "CYP",
@@ -813,7 +813,7 @@ return [
         ],
         "continent" => "EU",
         "capital" => "Nicosia",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Cypriot"
     ],
     "CZ" => [
         "iso" => "CZE",
@@ -828,7 +828,7 @@ return [
         ],
         "continent" => "EU",
         "capital" => "Prague",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Czech"
     ],
     "DK" => [
         "iso" => "DNK",
@@ -842,7 +842,7 @@ return [
         ],
         "continent" => "EU",
         "capital" => "Copenhagen",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Danish"
     ],
     "DJ" => [
         "iso" => "DJI",
@@ -857,7 +857,7 @@ return [
         ],
         "continent" => "AF",
         "capital" => "Djibouti",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Djiboutian"
     ],
     "DM" => [
         "iso" => "DMA",
@@ -871,7 +871,7 @@ return [
         ],
         "continent" => "NA",
         "capital" => "Roseau",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Dominican"
     ],
     "DO" => [
         "iso" => "DOM",
@@ -885,7 +885,7 @@ return [
         ],
         "continent" => "NA",
         "capital" => "Santo Domingo",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Dominican"
     ],
     "TL" => [
         "iso" => "TLS",
@@ -899,7 +899,7 @@ return [
         ],
         "continent" => "OC",
         "capital" => "Dili",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Timorese"
     ],
     "EC" => [
         "iso" => "ECU",
@@ -913,7 +913,7 @@ return [
         ],
         "continent" => "SA",
         "capital" => "Quito",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Ecuadorian"
     ],
     "EG" => [
         "iso" => "EGY",
@@ -927,7 +927,7 @@ return [
         ],
         "continent" => "AF",
         "capital" => "Cairo",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Egyptian"
     ],
     "SV" => [
         "iso" => "SLV",
@@ -941,7 +941,7 @@ return [
         ],
         "continent" => "NA",
         "capital" => "San Salvador",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Salvadoran"
     ],
     "GQ" => [
         "iso" => "GNQ",
@@ -956,7 +956,7 @@ return [
         ],
         "continent" => "AF",
         "capital" => "Malabo",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Equatorial Guinean, Equatoguinean"
     ],
     "ER" => [
         "iso" => "ERI",
@@ -972,7 +972,7 @@ return [
         ],
         "continent" => "AF",
         "capital" => "Asmara",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Eritrean"
     ],
     "EE" => [
         "iso" => "EST",
@@ -986,7 +986,7 @@ return [
         ],
         "continent" => "EU",
         "capital" => "Tallinn",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Estonian"
     ],
     "ET" => [
         "iso" => "ETH",
@@ -1000,7 +1000,7 @@ return [
         ],
         "continent" => "AF",
         "capital" => "Addis Ababa",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Ethiopian"
     ],
     "FK" => [
         "iso" => "FLK",
@@ -1014,7 +1014,7 @@ return [
         ],
         "continent" => "SA",
         "capital" => "Stanley",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Falkland Island"
     ],
     "FO" => [
         "iso" => "FRO",
@@ -1028,7 +1028,7 @@ return [
         ],
         "continent" => "EU",
         "capital" => "Torshavn",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Faroese"
     ],
     "FJ" => [
         "iso" => "FJI",
@@ -1045,7 +1045,7 @@ return [
         ],
         "continent" => "OC",
         "capital" => "Suva",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Fijian"
     ],
     "FI" => [
         "iso" => "FIN",
@@ -1060,7 +1060,7 @@ return [
         ],
         "continent" => "EU",
         "capital" => "Helsinki",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Finnish"
     ],
     "FR" => [
         "iso" => "FRA",
@@ -1074,7 +1074,7 @@ return [
         ],
         "continent" => "EU",
         "capital" => "Paris",
-        "nationality" => "Zimbabwean"
+        "nationality" => "French"
     ],
     "GF" => [
         "iso" => "GUF",
@@ -1088,7 +1088,7 @@ return [
         ],
         "continent" => "SA",
         "capital" => "Cayenne",
-        "nationality" => "Zimbabwean"
+        "nationality" => "French Guianese"
     ],
     "PF" => [
         "iso" => "PYF",
@@ -1102,7 +1102,7 @@ return [
         ],
         "continent" => "OC",
         "capital" => "Papeete",
-        "nationality" => "Zimbabwean"
+        "nationality" => "French Polynesian"
     ],
     "GA" => [
         "iso" => "GAB",
@@ -1116,7 +1116,7 @@ return [
         ],
         "continent" => "AF",
         "capital" => "Libreville",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Gabonese"
     ],
     "GM" => [
         "iso" => "GMB",
@@ -1130,7 +1130,7 @@ return [
         ],
         "continent" => "AF",
         "capital" => "Banjul",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Gambian"
     ],
     "GE" => [
         "iso" => "GEO",
@@ -1144,7 +1144,7 @@ return [
         ],
         "continent" => "AS",
         "capital" => "Tbilisi",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Georgian"
     ],
     "DE" => [
         "iso" => "DEU",
@@ -1158,7 +1158,7 @@ return [
         ],
         "continent" => "EU",
         "capital" => "Berlin",
-        "nationality" => "Zimbabwean"
+        "nationality" => "German"
     ],
     "GH" => [
         "iso" => "GHA",
@@ -1172,7 +1172,7 @@ return [
         ],
         "continent" => "AF",
         "capital" => "Accra",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Ghanaian"
     ],
     "GI" => [
         "iso" => "GIB",
@@ -1186,7 +1186,7 @@ return [
         ],
         "continent" => "EU",
         "capital" => "Gibraltar",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Gibraltar"
     ],
     "GR" => [
         "iso" => "GRC",
@@ -1200,7 +1200,7 @@ return [
         ],
         "continent" => "EU",
         "capital" => "Athens",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Greek, Hellenic"
     ],
     "GL" => [
         "iso" => "GRL",
@@ -1214,7 +1214,7 @@ return [
         ],
         "continent" => "NA",
         "capital" => "Nuuk",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Greenlandic"
     ],
     "GD" => [
         "iso" => "GRD",
@@ -1228,7 +1228,7 @@ return [
         ],
         "continent" => "NA",
         "capital" => "St. George's",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Grenadian"
     ],
     "GP" => [
         "iso" => "GLP",
@@ -1242,7 +1242,7 @@ return [
         ],
         "continent" => "NA",
         "capital" => "Basse-Terre",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Guadeloupe"
     ],
     "GU" => [
         "iso" => "GUM",
@@ -1258,7 +1258,7 @@ return [
         ],
         "continent" => "OC",
         "capital" => "Hagatna",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Guamanian, Guambat"
     ],
     "GT" => [
         "iso" => "GTM",
@@ -1272,7 +1272,7 @@ return [
         ],
         "continent" => "NA",
         "capital" => "Guatemala City",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Guatemalan"
     ],
     "GG" => [
         "iso" => "GGY",
@@ -1287,7 +1287,7 @@ return [
         ],
         "continent" => "EU",
         "capital" => "St Peter Port",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Channel Island"
     ],
     "GN" => [
         "iso" => "GIN",
@@ -1302,7 +1302,7 @@ return [
         ],
         "continent" => "AF",
         "capital" => "Conakry",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Guinean"
     ],
     "GW" => [
         "iso" => "GNB",
@@ -1316,7 +1316,7 @@ return [
         ],
         "continent" => "AF",
         "capital" => "Bissau",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Bissau-Guinean"
     ],
     "GY" => [
         "iso" => "GUY",
@@ -1330,7 +1330,7 @@ return [
         ],
         "continent" => "SA",
         "capital" => "Georgetown",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Guyanese"
     ],
     "HT" => [
         "iso" => "HTI",
@@ -1345,7 +1345,7 @@ return [
         ],
         "continent" => "NA",
         "capital" => "Port-au-Prince",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Haitian"
     ],
     "HM" => [
         "iso" => "HMD",
@@ -1359,7 +1359,7 @@ return [
         ],
         "continent" => "AN",
         "capital" => "",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Heard Island or McDonald Islands"
     ],
     "HN" => [
         "iso" => "HND",
@@ -1373,7 +1373,7 @@ return [
         ],
         "continent" => "NA",
         "capital" => "Tegucigalpa",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Honduran"
     ],
     "HK" => [
         "iso" => "HKG",
@@ -1388,7 +1388,7 @@ return [
         ],
         "continent" => "AS",
         "capital" => "Hong Kong",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Hong Kong, Hong Kongese"
     ],
     "HU" => [
         "iso" => "HUN",
@@ -1402,7 +1402,7 @@ return [
         ],
         "continent" => "EU",
         "capital" => "Budapest",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Hungarian, Magyar"
     ],
     "IS" => [
         "iso" => "ISL",
@@ -1416,7 +1416,7 @@ return [
         ],
         "continent" => "EU",
         "capital" => "Reykjavik",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Icelandic"
     ],
     "IN" => [
         "iso" => "IND",
@@ -1431,7 +1431,7 @@ return [
         ],
         "continent" => "AS",
         "capital" => "New Delhi",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Indian"
     ],
     "ID" => [
         "iso" => "IDN",
@@ -1445,7 +1445,7 @@ return [
         ],
         "continent" => "AS",
         "capital" => "Jakarta",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Indonesian"
     ],
     "IR" => [
         "iso" => "IRN",
@@ -1459,7 +1459,7 @@ return [
         ],
         "continent" => "AS",
         "capital" => "Tehran",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Iranian, Persian"
     ],
     "IQ" => [
         "iso" => "IRQ",
@@ -1474,7 +1474,7 @@ return [
         ],
         "continent" => "AS",
         "capital" => "Baghdad",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Iraqi"
     ],
     "IE" => [
         "iso" => "IRL",
@@ -1489,7 +1489,7 @@ return [
         ],
         "continent" => "EU",
         "capital" => "Dublin",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Irish"
     ],
     "IL" => [
         "iso" => "ISR",
@@ -1504,7 +1504,7 @@ return [
         ],
         "continent" => "AS",
         "capital" => "Jerusalem",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Israeli"
     ],
     "IT" => [
         "iso" => "ITA",
@@ -1518,7 +1518,7 @@ return [
         ],
         "continent" => "EU",
         "capital" => "Rome",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Italian"
     ],
     "JM" => [
         "iso" => "JAM",
@@ -1532,7 +1532,7 @@ return [
         ],
         "continent" => "NA",
         "capital" => "Kingston",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Jamaican"
     ],
     "JP" => [
         "iso" => "JPN",
@@ -1546,7 +1546,7 @@ return [
         ],
         "continent" => "AS",
         "capital" => "Tokyo",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Japanese"
     ],
     "JE" => [
         "iso" => "JEY",
@@ -1561,7 +1561,7 @@ return [
         ],
         "continent" => "EU",
         "capital" => "Saint Helier",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Channel Island"
     ],
     "JO" => [
         "iso" => "JOR",
@@ -1575,7 +1575,7 @@ return [
         ],
         "continent" => "AS",
         "capital" => "Amman",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Jordanian"
     ],
     "KZ" => [
         "iso" => "KAZ",
@@ -1590,7 +1590,7 @@ return [
         ],
         "continent" => "AS",
         "capital" => "Astana",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Kazakhstani, Kazakh"
     ],
     "KE" => [
         "iso" => "KEN",
@@ -1605,7 +1605,7 @@ return [
         ],
         "continent" => "AF",
         "capital" => "Nairobi",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Kenyan"
     ],
     "KI" => [
         "iso" => "KIR",
@@ -1619,7 +1619,7 @@ return [
         ],
         "continent" => "OC",
         "capital" => "Tarawa",
-        "nationality" => "Zimbabwean"
+        "nationality" => "I-Kiribati"
     ],
     "KP" => [
         "iso" => "PRK",
@@ -1634,7 +1634,7 @@ return [
         ],
         "continent" => "AS",
         "capital" => "Pyongyang",
-        "nationality" => "Zimbabwean"
+        "nationality" => "North Korean"
     ],
     "KR" => [
         "iso" => "KOR",
@@ -1648,7 +1648,7 @@ return [
         ],
         "continent" => "AS",
         "capital" => "Seoul",
-        "nationality" => "Zimbabwean"
+        "nationality" => "South Korean"
     ],
     "KW" => [
         "iso" => "KWT",
@@ -1662,7 +1662,7 @@ return [
         ],
         "continent" => "AS",
         "capital" => "Kuwait City",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Kuwaiti"
     ],
     "KG" => [
         "iso" => "KGZ",
@@ -1677,7 +1677,7 @@ return [
         ],
         "continent" => "AS",
         "capital" => "Bishkek",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Kyrgyzstani, Kyrgyz, Kirgiz, Kirghiz"
     ],
     "XK" => [
         "iso" => "XKX",
@@ -1692,7 +1692,7 @@ return [
         ],
         "continent" => "EU",
         "capital" => "Pristina",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Kosovar"
     ],
     "LA" => [
         "iso" => "LAO",
@@ -1706,7 +1706,7 @@ return [
         ],
         "continent" => "AS",
         "capital" => "Vientiane",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Lao, Laotian"
     ],
     "LV" => [
         "iso" => "LVA",
@@ -1720,7 +1720,7 @@ return [
         ],
         "continent" => "EU",
         "capital" => "Riga",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Latvian"
     ],
     "LB" => [
         "iso" => "LBN",
@@ -1735,7 +1735,7 @@ return [
         ],
         "continent" => "AS",
         "capital" => "Beirut",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Lebanese"
     ],
     "LS" => [
         "iso" => "LSO",
@@ -1750,7 +1750,7 @@ return [
         ],
         "continent" => "AF",
         "capital" => "Maseru",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Basotho"
     ],
     "LR" => [
         "iso" => "LBR",
@@ -1764,7 +1764,7 @@ return [
         ],
         "continent" => "AF",
         "capital" => "Monrovia",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Liberian"
     ],
     "LY" => [
         "iso" => "LBY",
@@ -1778,7 +1778,7 @@ return [
         ],
         "continent" => "AF",
         "capital" => "Tripolis",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Libyan"
     ],
     "LI" => [
         "iso" => "LIE",
@@ -1792,7 +1792,7 @@ return [
         ],
         "continent" => "EU",
         "capital" => "Vaduz",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Liechtenstein"
     ],
     "LT" => [
         "iso" => "LTU",
@@ -1806,7 +1806,7 @@ return [
         ],
         "continent" => "EU",
         "capital" => "Vilnius",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Lithuanian"
     ],
     "LU" => [
         "iso" => "LUX",
@@ -1822,7 +1822,7 @@ return [
         ],
         "continent" => "EU",
         "capital" => "Luxembourg",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Luxembourg, Luxembourgish"
     ],
     "MO" => [
         "iso" => "MAC",
@@ -1837,7 +1837,7 @@ return [
         ],
         "continent" => "AS",
         "capital" => "Macao",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Macanese, Chinese"
     ],
     "MK" => [
         "iso" => "MKD",
@@ -1851,7 +1851,7 @@ return [
         ],
         "continent" => "EU",
         "capital" => "Skopje",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Macedonian"
     ],
     "MG" => [
         "iso" => "MDG",
@@ -1866,7 +1866,7 @@ return [
         ],
         "continent" => "AF",
         "capital" => "Antananarivo",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Malagasy"
     ],
     "MW" => [
         "iso" => "MWI",
@@ -1881,7 +1881,7 @@ return [
         ],
         "continent" => "AF",
         "capital" => "Lilongwe",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Malawian"
     ],
     "MY" => [
         "iso" => "MYS",
@@ -1895,7 +1895,7 @@ return [
         ],
         "continent" => "AS",
         "capital" => "Kuala Lumpur",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Malaysian"
     ],
     "MV" => [
         "iso" => "MDV",
@@ -1909,7 +1909,7 @@ return [
         ],
         "continent" => "AS",
         "capital" => "Male",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Maldivian"
     ],
     "ML" => [
         "iso" => "MLI",
@@ -1923,7 +1923,7 @@ return [
         ],
         "continent" => "AF",
         "capital" => "Bamako",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Malian, Malinese"
     ],
     "MT" => [
         "iso" => "MLT",
@@ -1938,7 +1938,7 @@ return [
         ],
         "continent" => "EU",
         "capital" => "Valletta",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Maltese"
     ],
     "IM" => [
         "iso" => "IMN",
@@ -1953,7 +1953,7 @@ return [
         ],
         "continent" => "EU",
         "capital" => "Douglas, Isle of Man",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Manx"
     ],
     "MH" => [
         "iso" => "MHL",
@@ -1968,7 +1968,7 @@ return [
         ],
         "continent" => "OC",
         "capital" => "Majuro",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Marshallese"
     ],
     "MQ" => [
         "iso" => "MTQ",
@@ -1982,7 +1982,7 @@ return [
         ],
         "continent" => "NA",
         "capital" => "Fort-de-France",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Martiniquais, Martinican"
     ],
     "MR" => [
         "iso" => "MRT",
@@ -1996,7 +1996,7 @@ return [
         ],
         "continent" => "AF",
         "capital" => "Nouakchott",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Mauritanian"
     ],
     "MU" => [
         "iso" => "MUS",
@@ -2010,7 +2010,7 @@ return [
         ],
         "continent" => "AF",
         "capital" => "Port Louis",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Mauritian"
     ],
     "YT" => [
         "iso" => "MYT",
@@ -2024,7 +2024,7 @@ return [
         ],
         "continent" => "AF",
         "capital" => "Mamoudzou",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Mahoran"
     ],
     "MX" => [
         "iso" => "MEX",
@@ -2038,7 +2038,7 @@ return [
         ],
         "continent" => "NA",
         "capital" => "Mexico City",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Mexican"
     ],
     "FM" => [
         "iso" => "FSM",
@@ -2052,7 +2052,7 @@ return [
         ],
         "continent" => "OC",
         "capital" => "Palikir",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Micronesian"
     ],
     "MD" => [
         "iso" => "MDA",
@@ -2066,7 +2066,7 @@ return [
         ],
         "continent" => "EU",
         "capital" => "Chisinau",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Moldovan"
     ],
     "MC" => [
         "iso" => "MCO",
@@ -2080,7 +2080,7 @@ return [
         ],
         "continent" => "EU",
         "capital" => "Monaco",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Monégasque, Monacan"
     ],
     "MN" => [
         "iso" => "MNG",
@@ -2094,7 +2094,7 @@ return [
         ],
         "continent" => "AS",
         "capital" => "Ulan Bator",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Mongolian"
     ],
     "ME" => [
         "iso" => "MNE",
@@ -2111,7 +2111,7 @@ return [
         ],
         "continent" => "EU",
         "capital" => "Podgorica",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Montenegrin"
     ],
     "MS" => [
         "iso" => "MSR",
@@ -2125,7 +2125,7 @@ return [
         ],
         "continent" => "NA",
         "capital" => "Plymouth",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Montserratian"
     ],
     "MA" => [
         "iso" => "MAR",
@@ -2139,7 +2139,7 @@ return [
         ],
         "continent" => "AF",
         "capital" => "Rabat",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Moroccan"
     ],
     "MZ" => [
         "iso" => "MOZ",
@@ -2153,7 +2153,7 @@ return [
         ],
         "continent" => "AF",
         "capital" => "Maputo",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Mozambican"
     ],
     "MM" => [
         "iso" => "MMR",
@@ -2167,7 +2167,7 @@ return [
         ],
         "continent" => "AS",
         "capital" => "Nay Pyi Taw",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Burmese"
     ],
     "NA" => [
         "iso" => "NAM",
@@ -2182,7 +2182,7 @@ return [
         ],
         "continent" => "AF",
         "capital" => "Windhoek",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Namibian"
     ],
     "NR" => [
         "iso" => "NRU",
@@ -2197,7 +2197,7 @@ return [
         ],
         "continent" => "OC",
         "capital" => "Yaren",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Nauruan"
     ],
     "NP" => [
         "iso" => "NPL",
@@ -2211,7 +2211,7 @@ return [
         ],
         "continent" => "AS",
         "capital" => "Kathmandu",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Nepali, Nepalese"
     ],
     "AN" => [
         "iso" => "ANT",
@@ -2224,7 +2224,7 @@ return [
         ],
         "continent" => "SA",
         "capital" => "",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Dutch"
     ],
     "NL" => [
         "iso" => "NLD",
@@ -2238,7 +2238,7 @@ return [
         ],
         "continent" => "EU",
         "capital" => "Amsterdam",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Dutch, Netherlandic"
     ],
     "NC" => [
         "iso" => "NCL",
@@ -2252,7 +2252,7 @@ return [
         ],
         "continent" => "OC",
         "capital" => "Noumea",
-        "nationality" => "Zimbabwean"
+        "nationality" => "New Caledonian"
     ],
     "NZ" => [
         "iso" => "NZL",
@@ -2267,7 +2267,7 @@ return [
         ],
         "continent" => "OC",
         "capital" => "Wellington",
-        "nationality" => "Zimbabwean"
+        "nationality" => "New Zealand, NZ"
     ],
     "NI" => [
         "iso" => "NIC",
@@ -2281,7 +2281,7 @@ return [
         ],
         "continent" => "NA",
         "capital" => "Managua",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Nicaraguan"
     ],
     "NE" => [
         "iso" => "NER",
@@ -2295,7 +2295,7 @@ return [
         ],
         "continent" => "AF",
         "capital" => "Niamey",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Nigerien"
     ],
     "NG" => [
         "iso" => "NGA",
@@ -2309,7 +2309,7 @@ return [
         ],
         "continent" => "AF",
         "capital" => "Abuja",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Nigerian"
     ],
     "NU" => [
         "iso" => "NIU",
@@ -2323,7 +2323,7 @@ return [
         ],
         "continent" => "OC",
         "capital" => "Alofi",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Niuean"
     ],
     "NF" => [
         "iso" => "NFK",
@@ -2337,7 +2337,7 @@ return [
         ],
         "continent" => "OC",
         "capital" => "Kingston",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Norfolk Island"
     ],
     "MP" => [
         "iso" => "MNP",
@@ -2352,7 +2352,7 @@ return [
         ],
         "continent" => "OC",
         "capital" => "Saipan",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Northern Marianan"
     ],
     "NO" => [
         "iso" => "NOR",
@@ -2368,7 +2368,7 @@ return [
         ],
         "continent" => "EU",
         "capital" => "Oslo",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Norwegian"
     ],
     "OM" => [
         "iso" => "OMN",
@@ -2382,7 +2382,7 @@ return [
         ],
         "continent" => "AS",
         "capital" => "Muscat",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Omani"
     ],
     "PK" => [
         "iso" => "PAK",
@@ -2397,7 +2397,7 @@ return [
         ],
         "continent" => "AS",
         "capital" => "Islamabad",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Pakistani"
     ],
     "PW" => [
         "iso" => "PLW",
@@ -2411,7 +2411,7 @@ return [
         ],
         "continent" => "OC",
         "capital" => "Melekeok",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Palauan"
     ],
     "PS" => [
         "iso" => "PSE",
@@ -2425,7 +2425,7 @@ return [
         ],
         "continent" => "AS",
         "capital" => "East Jerusalem",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Palestinian"
     ],
     "PA" => [
         "iso" => "PAN",
@@ -2439,7 +2439,7 @@ return [
         ],
         "continent" => "NA",
         "capital" => "Panama City",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Panamanian"
     ],
     "PG" => [
         "iso" => "PNG",
@@ -2453,7 +2453,7 @@ return [
         ],
         "continent" => "OC",
         "capital" => "Port Moresby",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Papua New Guinean, Papuan"
     ],
     "PY" => [
         "iso" => "PRY",
@@ -2468,7 +2468,7 @@ return [
         ],
         "continent" => "SA",
         "capital" => "Asuncion",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Paraguayan"
     ],
     "PE" => [
         "iso" => "PER",
@@ -2482,7 +2482,7 @@ return [
         ],
         "continent" => "SA",
         "capital" => "Lima",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Peruvian"
     ],
     "PH" => [
         "iso" => "PHL",
@@ -2496,7 +2496,7 @@ return [
         ],
         "continent" => "AS",
         "capital" => "Manila",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Philippine, Filipino"
     ],
     "PN" => [
         "iso" => "PCN",
@@ -2510,7 +2510,7 @@ return [
         ],
         "continent" => "OC",
         "capital" => "Adamstown",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Pitcairn Island"
     ],
     "PL" => [
         "iso" => "POL",
@@ -2524,7 +2524,7 @@ return [
         ],
         "continent" => "EU",
         "capital" => "Warsaw",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Polish"
     ],
     "PT" => [
         "iso" => "PRT",
@@ -2538,7 +2538,7 @@ return [
         ],
         "continent" => "EU",
         "capital" => "Lisbon",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Portuguese"
     ],
     "PR" => [
         "iso" => "PRI",
@@ -2553,7 +2553,7 @@ return [
         ],
         "continent" => "NA",
         "capital" => "San Juan",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Puerto Rican"
     ],
     "QA" => [
         "iso" => "QAT",
@@ -2567,7 +2567,7 @@ return [
         ],
         "continent" => "AS",
         "capital" => "Doha",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Qatari"
     ],
     "RE" => [
         "iso" => "REU",
@@ -2581,7 +2581,7 @@ return [
         ],
         "continent" => "AF",
         "capital" => "Saint-Denis",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Réunionese, Réunionnais"
     ],
     "RO" => [
         "iso" => "ROU",
@@ -2595,7 +2595,7 @@ return [
         ],
         "continent" => "EU",
         "capital" => "Bucharest",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Romanian"
     ],
     "RU" => [
         "iso" => "RUS",
@@ -2609,7 +2609,7 @@ return [
         ],
         "continent" => "EU",
         "capital" => "Moscow",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Russian"
     ],
     "RW" => [
         "iso" => "RWA",
@@ -2625,7 +2625,7 @@ return [
         ],
         "continent" => "AF",
         "capital" => "Kigali",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Rwandan"
     ],
     "SH" => [
         "iso" => "SHN",
@@ -2639,7 +2639,7 @@ return [
         ],
         "continent" => "AF",
         "capital" => "Jamestown",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Saint Helenian"
     ],
     "KN" => [
         "iso" => "KNA",
@@ -2653,7 +2653,7 @@ return [
         ],
         "continent" => "NA",
         "capital" => "Basseterre",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Kittitian or Nevisian"
     ],
     "LC" => [
         "iso" => "LCA",
@@ -2667,7 +2667,7 @@ return [
         ],
         "continent" => "NA",
         "capital" => "Castries",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Saint Lucian"
     ],
     "PM" => [
         "iso" => "SPM",
@@ -2681,7 +2681,7 @@ return [
         ],
         "continent" => "NA",
         "capital" => "Saint-Pierre",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Saint-Pierrais or Miquelonnais"
     ],
     "VC" => [
         "iso" => "VCT",
@@ -2695,7 +2695,7 @@ return [
         ],
         "continent" => "NA",
         "capital" => "Kingstown",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Saint Vincentian, Vincentian"
     ],
     "BL" => [
         "iso" => "BLM",
@@ -2709,7 +2709,7 @@ return [
         ],
         "continent" => "NA",
         "capital" => "Gustavia",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Barthélemois"
     ],
     "MF" => [
         "iso" => "MAF",
@@ -2725,7 +2725,7 @@ return [
         ],
         "continent" => "NA",
         "capital" => "Marigot",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Saint-Martinoise"
     ],
     "WS" => [
         "iso" => "WSM",
@@ -2740,7 +2740,7 @@ return [
         ],
         "continent" => "OC",
         "capital" => "Apia",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Samoan"
     ],
     "SM" => [
         "iso" => "SMR",
@@ -2754,7 +2754,7 @@ return [
         ],
         "continent" => "EU",
         "capital" => "San Marino",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Sammarinese"
     ],
     "ST" => [
         "iso" => "STP",
@@ -2768,7 +2768,7 @@ return [
         ],
         "continent" => "AF",
         "capital" => "Sao Tome",
-        "nationality" => "Zimbabwean"
+        "nationality" => "São Toméan"
     ],
     "SA" => [
         "iso" => "SAU",
@@ -2782,7 +2782,7 @@ return [
         ],
         "continent" => "AS",
         "capital" => "Riyadh",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Saudi, Saudi Arabian"
     ],
     "SN" => [
         "iso" => "SEN",
@@ -2796,7 +2796,7 @@ return [
         ],
         "continent" => "AF",
         "capital" => "Dakar",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Senegalese"
     ],
     "RS" => [
         "iso" => "SRB",
@@ -2810,7 +2810,7 @@ return [
         ],
         "continent" => "EU",
         "capital" => "Belgrade",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Serbian"
     ],
     "SC" => [
         "iso" => "SYC",
@@ -2825,7 +2825,7 @@ return [
         ],
         "continent" => "AF",
         "capital" => "Victoria",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Seychellois"
     ],
     "SL" => [
         "iso" => "SLE",
@@ -2839,7 +2839,7 @@ return [
         ],
         "continent" => "AF",
         "capital" => "Freetown",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Sierra Leonean"
     ],
     "SG" => [
         "iso" => "SGP",
@@ -2856,7 +2856,7 @@ return [
         ],
         "continent" => "AS",
         "capital" => "Singapur",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Singaporean"
     ],
     "SK" => [
         "iso" => "SVK",
@@ -2870,7 +2870,7 @@ return [
         ],
         "continent" => "EU",
         "capital" => "Bratislava",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Slovak"
     ],
     "SI" => [
         "iso" => "SVN",
@@ -2884,7 +2884,7 @@ return [
         ],
         "continent" => "EU",
         "capital" => "Ljubljana",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Slovenian, Slovene"
     ],
     "SB" => [
         "iso" => "SLB",
@@ -2898,7 +2898,7 @@ return [
         ],
         "continent" => "OC",
         "capital" => "Honiara",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Solomon Island"
     ],
     "SO" => [
         "iso" => "SOM",
@@ -2913,7 +2913,7 @@ return [
         ],
         "continent" => "AF",
         "capital" => "Mogadishu",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Somali, Somalian"
     ],
     "ZA" => [
         "iso" => "ZAF",
@@ -2936,7 +2936,7 @@ return [
         ],
         "continent" => "AF",
         "capital" => "Pretoria",
-        "nationality" => "Zimbabwean"
+        "nationality" => "South African"
     ],
     "GS" => [
         "iso" => "SGS",
@@ -2950,7 +2950,7 @@ return [
         ],
         "continent" => "AN",
         "capital" => "Grytviken",
-        "nationality" => "Zimbabwean"
+        "nationality" => "South Georgia or South Sandwich Islands"
     ],
     "SS" => [
         "iso" => "SSD",
@@ -2964,7 +2964,7 @@ return [
         ],
         "continent" => "AF",
         "capital" => "Juba",
-        "nationality" => "Zimbabwean"
+        "nationality" => "South Sudanese"
     ],
     "ES" => [
         "iso" => "ESP",
@@ -2982,7 +2982,7 @@ return [
         ],
         "continent" => "EU",
         "capital" => "Madrid",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Spanish"
     ],
     "LK" => [
         "iso" => "LKA",
@@ -2997,7 +2997,7 @@ return [
         ],
         "continent" => "AS",
         "capital" => "Colombo",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Sri Lankan"
     ],
     "SD" => [
         "iso" => "SDN",
@@ -3012,7 +3012,7 @@ return [
         ],
         "continent" => "AF",
         "capital" => "Khartoum",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Sudanese"
     ],
     "SR" => [
         "iso" => "SUR",
@@ -3026,7 +3026,7 @@ return [
         ],
         "continent" => "SA",
         "capital" => "Paramaribo",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Surinamese"
     ],
     "SJ" => [
         "iso" => "SJM",
@@ -3040,7 +3040,7 @@ return [
         ],
         "continent" => "EU",
         "capital" => "Longyearbyen",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Svalbard"
     ],
     "SZ" => [
         "iso" => "SWZ",
@@ -3055,7 +3055,7 @@ return [
         ],
         "continent" => "AF",
         "capital" => "Mbabane",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Swazi"
     ],
     "SE" => [
         "iso" => "SWE",
@@ -3069,7 +3069,7 @@ return [
         ],
         "continent" => "EU",
         "capital" => "Stockholm",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Swedish"
     ],
     "CH" => [
         "iso" => "CHE",
@@ -3085,7 +3085,7 @@ return [
         ],
         "continent" => "EU",
         "capital" => "Berne",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Swiss"
     ],
     "SY" => [
         "iso" => "SYR",
@@ -3099,7 +3099,7 @@ return [
         ],
         "continent" => "AS",
         "capital" => "Damascus",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Syrian"
     ],
     "TW" => [
         "iso" => "TWN",
@@ -3113,7 +3113,7 @@ return [
         ],
         "continent" => "AS",
         "capital" => "Taipei",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Chinese, Taiwanese"
     ],
     "TJ" => [
         "iso" => "TJK",
@@ -3128,7 +3128,7 @@ return [
         ],
         "continent" => "AS",
         "capital" => "Dushanbe",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Tajikistani"
     ],
     "TZ" => [
         "iso" => "TZA",
@@ -3143,7 +3143,7 @@ return [
         ],
         "continent" => "AF",
         "capital" => "Dodoma",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Tanzanian"
     ],
     "TH" => [
         "iso" => "THA",
@@ -3157,7 +3157,7 @@ return [
         ],
         "continent" => "AS",
         "capital" => "Bangkok",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Thai"
     ],
     "TG" => [
         "iso" => "TGO",
@@ -3171,7 +3171,7 @@ return [
         ],
         "continent" => "AF",
         "capital" => "Lome",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Togolese"
     ],
     "TK" => [
         "iso" => "TKL",
@@ -3185,7 +3185,7 @@ return [
         ],
         "continent" => "OC",
         "capital" => "",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Tokelauan"
     ],
     "TO" => [
         "iso" => "TON",
@@ -3200,7 +3200,7 @@ return [
         ],
         "continent" => "OC",
         "capital" => "Nuku'alofa",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Tongan"
     ],
     "TT" => [
         "iso" => "TTO",
@@ -3214,7 +3214,7 @@ return [
         ],
         "continent" => "NA",
         "capital" => "Port of Spain",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Trinidadian or Tobagonian"
     ],
     "TN" => [
         "iso" => "TUN",
@@ -3228,7 +3228,7 @@ return [
         ],
         "continent" => "AF",
         "capital" => "Tunis",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Tunisian"
     ],
     "TR" => [
         "iso" => "TUR",
@@ -3242,7 +3242,7 @@ return [
         ],
         "continent" => "AS",
         "capital" => "Ankara",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Turkish"
     ],
     "TM" => [
         "iso" => "TKM",
@@ -3257,7 +3257,7 @@ return [
         ],
         "continent" => "AS",
         "capital" => "Ashgabat",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Turkmen"
     ],
     "TC" => [
         "iso" => "TCA",
@@ -3271,7 +3271,7 @@ return [
         ],
         "continent" => "NA",
         "capital" => "Cockburn Town",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Turks and Caicos Island"
     ],
     "TV" => [
         "iso" => "TUV",
@@ -3285,7 +3285,7 @@ return [
         ],
         "continent" => "OC",
         "capital" => "Funafuti",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Tuvaluan"
     ],
     "UG" => [
         "iso" => "UGA",
@@ -3300,7 +3300,7 @@ return [
         ],
         "continent" => "AF",
         "capital" => "Kampala",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Ugandan"
     ],
     "UA" => [
         "iso" => "UKR",
@@ -3314,7 +3314,7 @@ return [
         ],
         "continent" => "EU",
         "capital" => "Kiev",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Ukrainian"
     ],
     "AE" => [
         "iso" => "ARE",
@@ -3328,7 +3328,7 @@ return [
         ],
         "continent" => "AS",
         "capital" => "Abu Dhabi",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Emirati, Emirian, Emiri"
     ],
     "GB" => [
         "iso" => "GBR",
@@ -3342,7 +3342,7 @@ return [
         ],
         "continent" => "EU",
         "capital" => "London",
-        "nationality" => "Zimbabwean"
+        "nationality" => "British, UK"
     ],
     "US" => [
         "iso" => "USA",
@@ -3356,7 +3356,7 @@ return [
         ],
         "continent" => "NA",
         "capital" => "Washington",
-        "nationality" => "Zimbabwean"
+        "nationality" => "American"
     ],
     "UM" => [
         "iso" => "UMI",
@@ -3370,7 +3370,7 @@ return [
         ],
         "continent" => "OC",
         "capital" => "",
-        "nationality" => "Zimbabwean"
+        "nationality" => "American"
     ],
     "UY" => [
         "iso" => "URY",
@@ -3384,7 +3384,7 @@ return [
         ],
         "continent" => "SA",
         "capital" => "Montevideo",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Uruguayan"
     ],
     "UZ" => [
         "iso" => "UZB",
@@ -3399,7 +3399,7 @@ return [
         ],
         "continent" => "AS",
         "capital" => "Tashkent",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Uzbekistani, Uzbek"
     ],
     "VU" => [
         "iso" => "VUT",
@@ -3415,7 +3415,7 @@ return [
         ],
         "continent" => "OC",
         "capital" => "Port Vila",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Ni-Vanuatu, Vanuatuan"
     ],
     "VA" => [
         "iso" => "VAT",
@@ -3430,7 +3430,7 @@ return [
         ],
         "continent" => "EU",
         "capital" => "Vatican City",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Vatican"
     ],
     "VE" => [
         "iso" => "VEN",
@@ -3444,7 +3444,7 @@ return [
         ],
         "continent" => "SA",
         "capital" => "Caracas",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Venezuelan"
     ],
     "VN" => [
         "iso" => "VNM",
@@ -3458,7 +3458,7 @@ return [
         ],
         "continent" => "AS",
         "capital" => "Hanoi",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Vietnamese"
     ],
     "VG" => [
         "iso" => "VGB",
@@ -3472,7 +3472,7 @@ return [
         ],
         "continent" => "NA",
         "capital" => "Road Town",
-        "nationality" => "Zimbabwean"
+        "nationality" => "British Virgin Island"
     ],
     "VI" => [
         "iso" => "VIR",
@@ -3486,7 +3486,7 @@ return [
         ],
         "continent" => "NA",
         "capital" => "Charlotte Amalie",
-        "nationality" => "Zimbabwean"
+        "nationality" => "U.S. Virgin Island"
     ],
     "WF" => [
         "iso" => "WLF",
@@ -3500,7 +3500,7 @@ return [
         ],
         "continent" => "OC",
         "capital" => "Mata Utu",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Wallis and Futuna, Wallisian or Futunan"
     ],
     "EH" => [
         "iso" => "ESH",
@@ -3514,7 +3514,7 @@ return [
         ],
         "continent" => "AF",
         "capital" => "El-Aaiun",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Sahrawi, Sahrawian, Sahraouian"
     ],
     "YE" => [
         "iso" => "YEM",
@@ -3528,7 +3528,7 @@ return [
         ],
         "continent" => "AS",
         "capital" => "Sanaa",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Yemeni"
     ],
     "ZM" => [
         "iso" => "ZMB",
@@ -3542,7 +3542,7 @@ return [
         ],
         "continent" => "AF",
         "capital" => "Lusaka",
-        "nationality" => "Zimbabwean"
+        "nationality" => "Zambian"
     ],
     "ZW" => [
         "iso" => "ZWE",
