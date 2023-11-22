@@ -238,7 +238,7 @@ return [
     "UY" => "Uruguay",
     "UZ" => "Uzbekistan",
     "VU" => "Vanuatu",
-    "VA" => "Vatican City State (Holy See)",
+    "VA" => "Vatican City State",
     "VE" => "Venezuela",
     "VN" => "Vietnam",
     "VG" => "Virgin Islands (British)",
