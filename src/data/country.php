@@ -1491,21 +1491,6 @@ return [
         "capital" => "Dublin",
         "nationality" => "Irish"
     ],
-    "IL" => [
-        "iso" => "ISR",
-        "name" => "Israel",
-        "native" => "יִשְׂרָאֵל",
-        "currency" => "ILS",
-        "phone" => "972",
-        "timezone" => "Asia/Jerusalem",
-        "languages" => [
-            "HE",
-            "AR"
-        ],
-        "continent" => "AS",
-        "capital" => "Jerusalem",
-        "nationality" => "Israeli"
-    ],
     "IT" => [
         "iso" => "ITA",
         "name" => "Italy",
