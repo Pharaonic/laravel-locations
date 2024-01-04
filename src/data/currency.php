@@ -285,7 +285,7 @@ return [
     ],
     'ILS' => [
         'code' => 'ILS',
-        'name' => 'Israeli New Sheqel',
+        'name' => 'New Sheqel',
         'symbol' => '₪',
         'decimal_digits' => 2,
     ],
