@@ -20,7 +20,7 @@ return [
     "AX" => [
         "iso" => "ALA",
         "name" => "Aland Islands",
-        "native" => "Åland",
+        "native" => "Åland", 
         "currency" => "EUR",
         "phone" => "35818",
         "timezone" => "Europe/Mariehamn",
@@ -1493,8 +1493,8 @@ return [
     ],
     "IL" => [
         "iso" => "ISR",
-        "name" => "Israel",
-        "native" => "יִשְׂרָאֵל",
+        "name" => "Occupied Palestinian Territories",
+        "native" => "الأراضي الفلسطينية المحتلة",
         "currency" => "ILS",
         "phone" => "972",
         "timezone" => "Asia/Jerusalem",
