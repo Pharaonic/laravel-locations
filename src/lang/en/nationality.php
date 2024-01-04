@@ -112,7 +112,7 @@ return [
     "IQ" => "Iraqi",
     "IE" => "Irish",
     "IM" => "Manx",
-    "IL" => "Israeli",
+    "IL" => "Occupied Palestinian Territories",
     "IT" => "Italian",
     "JM" => "Jamaican",
     "JP" => "Japanese",
