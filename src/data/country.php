@@ -1504,7 +1504,7 @@ return [
         ],
         "continent" => "AS",
         "capital" => "Jerusalem",
-        "nationality" => "Israeli"
+        "nationality" => "Palestinian"
     ],
     "IT" => [
         "iso" => "ITA",
