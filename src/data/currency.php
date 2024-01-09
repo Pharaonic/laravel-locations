@@ -361,6 +361,12 @@ return [
         'symbol' => 'د.ك.',
         'decimal_digits' => 3,
     ],
+    'KGS' => [
+        'code' => 'KGS',
+        'name' => 'Kyrgystani Som',
+        'symbol' => 'лв',
+        'decimal_digits' => 3,
+    ],
     'KZT' => [
         'code' => 'KZT',
         'name' => 'Kazakhstani Tenge',
