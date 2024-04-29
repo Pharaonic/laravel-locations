@@ -43,7 +43,7 @@ function getContinents(?string $lang = null)
 function getContinent(string $code, ?string $lang = null)
 {
     $continents = getContinents($lang);
-    if(!isset($continents->{$code})) return null;
+    if (!isset($continents->{$code})) return null;
 
     return $continents->{$code};
 }
@@ -72,8 +72,8 @@ function getCountries(?string $lang = null)
     if ($lang != 'en') {
         $list = require __DIR__ . DIRECTORY_SEPARATOR . 'lang' . DIRECTORY_SEPARATOR . $lang . DIRECTORY_SEPARATOR . 'country.php';
         $nationalities = require __DIR__ . DIRECTORY_SEPARATOR . 'lang' . DIRECTORY_SEPARATOR . $lang . DIRECTORY_SEPARATOR . 'nationality.php';
-        
-        foreach($countries as $code => &$info){
+
+        foreach ($countries as $code => &$info) {
             $info['name'] = $list[$code];
             $info['nationality'] = $nationalities[$code];
         }
@@ -101,7 +101,7 @@ function getCountriesNames(?string $lang = null)
 function getCountry(string $code, ?string $lang = null)
 {
     $countries = getCountries($lang);
-    if(!isset($countries->{$code})) return null;
+    if (!isset($countries->{$code})) return null;
 
     return (object)$countries->{$code};
 }
@@ -109,9 +109,15 @@ function getCountry(string $code, ?string $lang = null)
 /**
  * Get States List
  */
-function getStates(?string $country = null)
+function getStates(?string $country = null, ?string $lang = null)
 {
-    $states = require __DIR__ . DIRECTORY_SEPARATOR . 'data' . DIRECTORY_SEPARATOR . 'states.php';
+    $lang = strtolower($lang ?? substr(app()->getLocale(), 0, 2));
+
+    if (!is_dir(__DIR__ . DIRECTORY_SEPARATOR . 'lang' . DIRECTORY_SEPARATOR . $lang)) {
+        $lang = 'en';
+    }
+
+    $states = require __DIR__ . DIRECTORY_SEPARATOR . 'lang' . DIRECTORY_SEPARATOR . $lang . DIRECTORY_SEPARATOR . 'states.php';
 
     if ($country) {
         if (!isset($states[$country])) return null;
@@ -124,10 +130,10 @@ function getStates(?string $country = null)
 /**
  * Get State List
  */
-function getState(string $code, ?string $country = null)
+function getState(string $code, ?string $country = null, ?string $lang = null)
 {
-    $states = getStates($country);
-    if(!isset($states->{$code})) return null;
+    $states = getStates($country, $lang);
+    if (!isset($states->{$code})) return null;
 
     return $states->{$code};
 }
