@@ -830,6 +830,20 @@ return [
         "capital" => "Prague",
         "nationality" => "Czech"
     ],
+    "DA" => [
+        "iso" => "DAG",
+        "name" => "Dagestan",
+        "native" => "Dagestan",
+        "currency" => "RUB",
+        "phone" => "7",
+        "timezone" => "Europe/Moscow",
+        "languages" => [
+            "RU"
+        ],
+        "continent" => "AS",
+        "capital" => "Makhachkala",
+        "nationality" => "Dagestanian"
+    ],
     "DK" => [
         "iso" => "DNK",
         "name" => "Denmark",

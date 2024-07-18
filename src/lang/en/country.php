@@ -59,6 +59,7 @@ return [
     "CU" => "Cuba",
     "CY" => "Cyprus",
     "CZ" => "Czech Republic",
+    "DA" => "Dagestan",
     "DK" => "Denmark",
     "DJ" => "Djibouti",
     "DM" => "Dominica",

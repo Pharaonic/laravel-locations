@@ -64,6 +64,7 @@ return [
     "CW" => "Curaçaoan",
     "CY" => "Cypriot",
     "CZ" => "Czech",
+    "DA" => "Dagestanian",
     "DK" => "Danish",
     "DJ" => "Djiboutian",
     "DM" => "Dominican",
