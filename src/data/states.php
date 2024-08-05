@@ -1901,6 +1901,7 @@ return [
         'U' => "Ulster",
     ],
     'IL' => [
+        'BE' => "Be'er Sheva",
         'NA' => "Nazareth",
         'HA' => "Haifa",
         'RA' => "Ramla",
@@ -3295,7 +3296,6 @@ return [
     ],
     'PS' => [
         'JER' => "Jerusalem",
-        'BE' => "Be'er Sheva",
         'JEN' => "Jenin",
         'TUL' => "Tulkarm",
         'NAB' => "Nablus",
