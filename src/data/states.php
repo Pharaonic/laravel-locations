@@ -3295,7 +3295,7 @@ return [
         '370' => "Sonsorol",
     ],
     'PS' => [
-        'JER' => "Jerusalem",
+        'JE' => "Jerusalem",
         'JEN' => "Jenin",
         'TUL' => "Tulkarm",
         'NAB' => "Nablus",
