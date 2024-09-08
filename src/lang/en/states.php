@@ -3025,7 +3025,6 @@ return [
         'ESS' => 'Essaouira',
         'FNI' => 'Fnideq',
         'TIZ' => 'Tiznit',
-        'TAN' => 'Tan-Tan',
         'OUA' => 'Ouarzazate',
         'SOU' => 'Souk El Arbaa',
         'YOU' => 'Youssoufia',
